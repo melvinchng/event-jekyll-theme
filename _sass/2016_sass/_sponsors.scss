@@ -1,0 +1,153 @@
+.sponsor {
+  color: white;
+
+  a {
+    color:darkblue;
+  }
+  h2 {
+    color: white; 
+    text-shadow: 2px 2px black;
+    text-align: center;
+  }
+  p {
+    font-size: 110%;
+    text-align: left;
+    padding: 0px 25vw 0px 25vw;
+    color: white; 
+    text-shadow: 2px 2px black;
+  }
+}
+
+.sponsor-top {
+  padding-top: 50px;
+}
+
+.transparent-frame {
+  border-radius: 5px;
+  overflow: hidden;
+  background: transparent;
+  box-sizing: border-box;
+  padding: 5%;
+  margin: 2em auto;
+}
+
+.website {
+  color:white;
+}
+
+.padding-sponsor {
+  padding: 5%;
+}
+
+.sponsor-container {
+  max-width: 1200px;
+  margin: 10px auto 10px auto;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+
+    *, *:before, *:after {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+  }
+}
+
+.sponsor-member {
+  padding: 10px 20px 10px 20px;
+  width: 16%;
+  text-align: center;
+  float: left;
+}
+
+.sponsor-member:last-child {
+  margin-right: 0;
+}
+
+.sponsor-member span, .sponsor-member h3 {
+  font-family: sans-serif;
+  letter-spacing: -1px;
+}
+
+.sponsor-member h3 {
+  color:black;
+  margin: 5px 0px 0px 0px;
+}
+
+.sponsor-member span {
+  display: block;
+  padding: 5px 0px 0px 0px;
+}
+
+.sponsor-photo {
+  text-align: center;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+  transition: 0.1s transform ease-in-out;
+}
+
+.sponsor-photo:hover {
+  transform: scale(0.9);
+  cursor: pointer;
+}
+
+@media screen and (max-width:1500px){
+  .sponsor-container {
+    padding: 10px;
+  }
+  .sponsor {
+    p {
+      font-size: 110%;
+      text-align: left;
+      padding: 0px 15vw 0px 15vw;
+    }
+  }
+}
+
+@media screen and (max-width:1000px){
+  .sponsor {
+    p {
+      font-size: 110%;
+      text-align: left;
+      padding: 0px 9vw 0px 9vw;
+    }
+  }
+}
+
+/* code for phone layout */
+@media screen and (max-width:760px){
+  .sponsor-member {
+    padding: 0;
+    float: none;
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+    text-align: center;
+  }
+  .sponsor-container {
+    margin: 10px;
+  }
+  .sponsor {
+    p {
+      padding: 0 20px 0 20px;
+    }
+    h1 {
+      font-size: 130%;
+    }
+    h2 {
+      font-size: 120%;
+    }
+    p, ol, li {
+      font-size: 100%;
+    }
+  }
+  .sponsor-top {
+    padding-top: 0px;
+  }
+}

@@ -1,0 +1,113 @@
+button {
+  background-color: #2B60DE;
+  font-size: 110%;
+  border: 0;
+  padding: 7px 14px;
+  color: white;
+  text-transform: uppercase;
+  border: #0020C2 2px solid;
+  box-shadow: 0px 0px 2px 0 lightblue;
+}
+
+button:hover {
+  background-color: black;
+  border: white 2px solid;
+  transition: 1s ease-in;
+  color: white;
+}
+
+/* animated scroll down button */
+.down {
+  a {
+    position: absolute;
+    left: 50%;
+    z-index: 2;
+    display: inline-block;
+    -webkit-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    text-decoration: none;
+    padding-top: 60px;
+    color: #fff;
+    -webkit-transition: opacity .5s;
+    -o-transition: opacity .5s;
+    transition: opacity .5s;
+  }
+
+  a:hover {
+    opacity: .5;
+  }
+
+  a span {
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    top: 10vh;
+    margin-left: -23px;
+    border: 1px solid #fff;
+    border-radius: 100%;
+    box-sizing: border-box;
+  }
+
+  a span::after {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    content: '';
+    width: 16px;
+    height: 16px;
+    margin: -12px 0 0 -8px;
+    border-left: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    box-sizing: border-box;
+  }
+
+  a span::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    content: '';
+    width: 44px;
+    height: 44px;
+    box-shadow: 0 0 0 0 rgba(255, 255, 255, .1);
+    border-radius: 100%;
+    opacity: 0;
+    -webkit-animation: sdb 3s infinite;
+    animation: sdb 3s infinite;
+    box-sizing: border-box;
+  }
+
+  @-webkit-keyframes sdb {
+    0% {
+      opacity: 0;
+    }
+    30% {
+      opacity: 1;
+    }
+    60% {
+      box-shadow: 0 0 0 60px rgba(255, 255, 255, .1);
+      opacity: 0;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+
+  @keyframes sdb {
+    0% {
+      opacity: 0;
+    }
+    30% {
+      opacity: 1;
+    }
+    60% {
+      box-shadow: 0 0 0 60px rgba(255, 255, 255, .1);
+      opacity: 0;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+}

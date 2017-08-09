@@ -1,0 +1,87 @@
+.speakers {
+    padding: 5%;
+    margin: 100px 15vw 60px 15vw;
+    img {
+        width: 100%;
+    }
+    a {
+        color: darkblue;
+    }
+    h1 {
+        margin: 0;
+    }
+    h1, h2, h3, ol, p {
+        color: black; 
+        text-align: left;
+    }
+    p, ol {
+        font-size: 110%;
+    }
+    h1 {
+        text-shadow: 2px 2px black;
+        background-color: gold;
+        color: white;
+        padding: 5px 5px 5px 10px;
+        -webkit-clip-path: polygon(0 0, 100% 0, 95% 100%, 0 100%);
+        clip-path: polygon(0 0, 100% 0, 85% 100%, 0 100%);
+        width: 90%;
+    }
+    .speaker-profile {
+        img {
+            border-radius: 50%;
+            max-width: 300px;
+            float: left;
+            overflow: hidden;
+            margin-right: 25px;
+            margin-bottom: 10px;
+        }
+        a {
+            color: DodgerBlue;
+        }
+        ul {
+            padding-left: 350px;
+        }
+        ul, li, ol {
+            font-size: 110%;
+        }
+    }
+}
+
+@media screen and (max-width : 1200px){
+  .speakers {
+      margin: 100px 15vw 60px 15vw;
+  }
+}
+
+@media screen and (max-width:760px){
+    .speakers {
+        margin: 50px 10px 10px 10px;
+        h1 {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+        .speaker-profile {
+            img {
+                display: block;
+                margin: auto;
+                float: none;
+            }
+            ul {
+                padding-left: 20px;
+            }
+        }
+        .title {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+    }
+    h1 {
+        font-size: 130%;
+    }
+    h2 {
+        font-size: 120%;
+    }
+    p, ol, li {
+        font-size: 100%;
+    }
+}

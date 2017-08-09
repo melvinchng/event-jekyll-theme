@@ -1,0 +1,33 @@
+/*FOOTER ONLY*/
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 100%;
+}
+
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+body {
+  position: absolute;
+  margin: 0;
+  padding-bottom: 30px;
+  min-height: 100%;
+  width: 100%;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+footer {
+  font-size: 80%;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 10px;
+  background-color: #efefef;
+  text-align: center;
+}

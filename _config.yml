@@ -1,0 +1,35 @@
+title: Your Title
+description: > # this means to ignore newlines until "baseurl:"
+  Your description
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "Your-Link.github.io" # the base hostname & protocol for your site
+# Build settings
+markdown: kramdown
+
+facebook:
+  app_id: 
+
+logo: "../css/2016_style/img/icon-large.png"
+
+social: 
+  name: Your Facebook Page
+  link: "https://www.facebook.com/"
+
+google_site_verification: googleXXXXXXXXXXXXXXXX.html
+
+include: ['_2016_pages', '_2017_pages']
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com
+  - title: twitter
+    url: https://twitter.com
+
+# Build settings
+markdown: kramdown
+permalink: pretty

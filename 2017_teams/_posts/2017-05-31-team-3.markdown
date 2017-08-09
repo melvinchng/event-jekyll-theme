@@ -1,0 +1,10 @@
+---
+title: Name
+name: Name 3
+subtitle: Position
+layout: 2017_default
+img: TBS.jpg
+thumbnail: TBD.jpg
+alt: Picture of Name
+description: Info 3
+---

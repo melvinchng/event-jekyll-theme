@@ -1,0 +1,218 @@
+/*Disable image drag*/
+img {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-user-drag: none;
+  user-drag: none;
+  -webkit-touch-callout: none;
+}
+
+/*Disable map drag*/
+.maps iframe{
+    pointer-events: none;
+}
+
+body, textarea {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+
+.content-home{
+  /*logo at the first section */
+  img {
+    margin-top: 100px; 
+    width: 250px; 
+    height: 250px;
+  }
+  /*set all font to roboto*/
+  h1, h2, h3, p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    margin: 0;
+  }
+  a {
+    color: lightblue;
+  }
+  /*set h1 to the middle of the page as in height*/
+  h1 {
+    padding-top: 100px;
+    font-size: 180%;
+    color: white;
+    text-shadow: 3px 3px black;
+    padding-bottom: 20px;
+  }
+  h2 {
+    color: white; 
+    text-shadow: 2px 2px black;
+    padding-bottom: 20px;
+  }
+  h3 {
+    color: white;
+    text-shadow: 2px 2px black;
+    padding-bottom: 20px;
+  }
+  P {
+    font-size: 110%;
+    color: white;
+    text-shadow: 1.5px 1.5px black;
+    margin-top: 0px;
+  }
+}
+
+/*backgound picture in home*/
+.home-background {
+  background: url('/css/2016_style/img/KLCC_bg.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  text-align: center;
+  height: 100vh;
+  min-height: 900px;
+
+  h2 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+.venue {
+  background: indianred;
+  color: white;
+  height: auto;
+  padding: 10px 0px 10px 0px;
+  margin: 0;
+
+  a {
+    color: lightblue;
+  }
+  h2 {
+    margin: 0;
+    padding: 0;
+    color: white; 
+    text-shadow: 2px 2px black;
+    text-align: center;
+  }
+  p {
+    font-size: 110%;
+    text-align: left;
+    padding: 0px 20vw 0px 20vw;
+    color: white; 
+    text-shadow: 2px 2px black;
+  }
+}
+
+/*first section in home*/
+.home-section-1 {
+  background: darkslateblue;
+  height: auto;
+  padding: 50px 0px 50px 0px;
+
+  h2, h3, p {
+    padding: 0px 20vw 10px 20vw;
+  } 
+}
+
+@media screen and (max-width : 1800px){
+  .content-home {
+    h1 {
+      padding-top: 10px;
+    }
+  }
+  .home-background {
+    min-height: 800px;
+  }
+}
+
+@media screen and (max-width : 1500px){
+  .content-home {
+    img {
+      margin-top: 70px; 
+    }
+  }
+  .home-background {
+    min-height: 650px;
+  }
+}
+
+@media screen and (max-width : 1200px){
+  .home-section-1, .info {
+    h2, h3, p {
+      padding: 0 15vw 10px 15vw;
+    }
+  }
+  .venue {
+    h1, h2, p {
+      padding: 0 15vw 0 15vw;
+    }
+  }
+}
+
+@media screen and (max-width : 760px){
+  .home-background {
+    min-height: 500px;
+  }
+  .content-home {
+    img {
+      margin-top: 70px; 
+      width: 150px; 
+      height: 150px;
+    }
+    h1 {
+      padding-top: 10px;
+      font-size: 130%;
+    }
+    h2 {
+      font-size: 115%;
+      padding-bottom: 5px;
+    }
+    h3 {
+      font-size: 110%;
+    }
+  }
+  .home-section-1 {
+    p {
+      font-size: 100%;
+    }
+    h2, h3, p {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+  }
+  .venue {
+    h2, p {
+      padding: 0 20px 0 20px;
+    }
+    h2 {
+      font-size: 115%;
+    }
+    p {
+      font-size: 100%;
+    } 
+  }
+}
+
+.row {
+  background: lightblue;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 50px 15vw 50px 15vw;
+
+  .object {
+    width: 400px;
+    float: left;
+    padding: 5%;
+    background: white;
+    box-sizing: border-box;
+    margin: 10px auto;
+    border: 2px solid #eee
+  }
+}
