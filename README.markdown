@@ -1,5 +1,5 @@
 # Event Jekyll Theme
-Event Jekyll Theme is a theme that is designed to be used for conference and event purpose. The index page is a modification of [Agency Jekyll Theme](https://github.com/y7kim/agency-jekyll-theme). You may visit the example site to see the differences between the origianl template and modified template.
+Event Jekyll Theme is a theme that is designed to be used for conference and event purposes. The index page is a modification and built on top of [Agency Jekyll Theme](https://github.com/y7kim/agency-jekyll-theme). Unlike most Jekyll Themes, Event Jekyll Theme is not meant to be a single page theme. This theme is a package that you can use for your organization's event as it come with almost everything you need. I reorganized all the files to make sure that you can easily reuse the same template each year, assuming that you event is once a year. 
 
 Big thanks to the creator of Agency as this theme would not be possible without their hard work!
 
@@ -9,9 +9,9 @@ Big thanks to the creator of Agency as this theme would not be possible without 
 
 ## Features
 ### Index Page
- - Event's title, location, and date
- - Welcoming remark section with video
-- Speaker profiles
+- Event's title, location, and date
+- Welcoming remark section with video
+- Speaker's profile
 - About section with options to navigate to subpages
 - Event Sponsors
 - Contact Us page
@@ -37,6 +37,7 @@ Two different design:
 - Designed to be futureproof as you can create a subpages for each year (eg. your-link.github.io/2015, your-link.github.io/2016, etc)
 - Header with your icon logo defined, but removed from source. 
 - Website logo in SVG defined, but removed from source.
+- Display PDF from Google Drive
 
 ## Installation
 1. For first time user, you have to install Ruby and Rails. If you do no thave Ruby on Rails installed, you may follow [this tutorial](https://goo.gl/65oQVL) that I wrote for Windows, Linux, and MacOS.
@@ -53,5 +54,6 @@ Two different design:
 - `_2016_data` and `_2017_data` are the folders that store each sections in home page. Those sections are can be removed by removing the `include` code in `_layout/2016_home.html` or `_layout/2017_home.html`.
 - `_2016_speakers` and `_2017_speakers` contain speakers' profile. They're written in markdown style. 
 - `_2017_teams` contains each team member's profile. They're written in markdown style. 
+- In order to view PDF correctly, sharing setting in Google Drive must set to "Public on the web".
 
 ## Enjoy!
