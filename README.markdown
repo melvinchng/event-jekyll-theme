@@ -1,11 +1,11 @@
 # Event Jekyll Theme
 Event Jekyll Theme is a theme that is designed to be used for conference and event purposes. The index page is a modification and built on top of [Agency Jekyll Theme](https://github.com/y7kim/agency-jekyll-theme). Unlike most Jekyll Themes, Event Jekyll Theme is not meant to be a single page theme. This theme is a package that you can use for your organization's event as it come with almost everything you need. I reorganized all the files to make sure that you can easily reuse the same template each year, assuming that you event is once a year. 
 
-Big thanks to the creator of Agency as this theme would not be possible without their hard work!
+Big thanks to the creator of Agency as this theme would not be possible without their hard work! You are always welcome to contribute to this repository to make it better!
 
 **Example Site**
-- [Event Jekyll Theme](https://event-jekyll-theme.github.io)
 - [Malaysian Students' Technology Conference](https://msiastc.github.io)
+- [Event Jekyll Theme](https://event-jekyll-theme.github.io)
 
 ## Features
 ### Index Page
@@ -40,7 +40,7 @@ Two different design:
 - Display PDF from Google Drive
 
 ## Installation
-1. For first time user, you have to install Ruby and Rails. If you do no thave Ruby on Rails installed, you may follow [this tutorial](https://goo.gl/65oQVL) that I wrote for Windows, Linux, and MacOS.
+1. For first time user, you have to install Ruby and Rails. If you do no thave Ruby on Rails installed, you may follow [this tutorial](http://melvinchng.github.io/rails/RubyOnRailsInstallation.html) that I wrote for Windows, Linux, and MacOS (installation videos are included).
 2. Install Jekyll by using the command `gem install jekyll`.
 3. Then, install Jekyll Sitemap and Jekyll SEO gems by using the commnad `gem install jekyll-sitemap` and `gem install jekyll-seo-tag`.
 4. Start your localhost server by using the command `jekyll serve`. Make sure that you are at the root directory of your folder before using this command.
