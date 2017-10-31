@@ -1,6 +1,6 @@
 ---
 title: krekedon 
-name: Name-2
+name: krekedon ab 101
 subtitle: ab-101
 layout: 2016_default
 modal-id: 1
