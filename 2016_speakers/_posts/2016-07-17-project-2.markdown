@@ -1,7 +1,7 @@
 ---
-title: Name
-name: Name-2
-subtitle: Position
+title: krekedon 
+name: krekedon ab 101
+subtitle: ab-101
 layout: 2016_default
 modal-id: 1
 img: TBD.jpg
