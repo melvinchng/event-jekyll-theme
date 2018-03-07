@@ -31,7 +31,7 @@ Two different design:
 ### Register Page
 - A page to redirect to a sign up page
 ### More features
-- Google Analytics built in (need to replace it with your own API key)
+- Google Analytics built in (replace `UA-xxxxxxxx-x` with your personal analytics verification key in `_includes/2016_data/head.html`)
 - SEO (check `_config.yml`)
 - Customized 404 Page Not Found Page
 - Designed to be futureproof as you can create a subpages for each year (eg. your-link.github.io/2015, your-link.github.io/2016, etc)
