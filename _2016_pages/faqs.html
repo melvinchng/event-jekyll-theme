@@ -13,12 +13,11 @@ title: Frequently Asked Questions (FAQ)
 
       <p>Below is a list of Frequently Asked Questions (FAQ).<p>
         <ol>
-          <li><b>Question 1</b>
-              <br>Answer tp Question 1<br><br>
-          </li>
-          <li><b>Question 2</b>
-              <br>Answer tp Question 2<br><br>
-          </li>
+            {% for faq in site.data.twenty_16.faqs %}
+                <li><b>{{ faq.question }}</b>
+                    <br>{{ faq.answer }}<br><br>
+                </li>
+            {% endfor %}
         </ol>
 
         <p>

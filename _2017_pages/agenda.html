@@ -15,36 +15,35 @@ published: true
         <h2>Day 1</h2>
         <table class="agenda">
             <thead>
-            <tr>
-                <th class="row-1 agenda-time"><center>Time</center></th>
-                <th class="row-2 agenda-activity"><center>Activity</center></th>  
-            </tr>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
             </thead>
-            <tr>
-                <td>8:00 PM - 12:00 PM</td>
-                <td><u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic</td>
-            </tr>           
-            <tr>
-                <td>12:00 PM - 3:00 PM</td>
-                <td><u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic</td>
-            </tr>
+
+            {% for agenda in site.data.twenty_17.agendas_1 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.info }}</td>
+                </tr> 
+            {% endfor %}
         </table>
 
         <h2>Day 2</h2>
         <table class="agenda">
             <thead>
-            <tr>
-                <th class="row-1 agenda-time"><center>Time</center></th>
-                <th class="row-2 agenda-activity"><center>Activity</center></th>  
-            </tr>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+
             </thead>
-            <tr>
-                <td>8:00 PM - 12:00 PM</td>
-                <td><u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic</td>
-            </tr>           
-            <tr>
-                <td>12:00 PM - 3:00 PM</td>
-                <td><u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic</td>
-            </tr>
+
+            {% for agenda in site.data.twenty_17.agendas_2 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.info }}</td>
+                </tr> 
+            {% endfor %}
         </table>
     </div>

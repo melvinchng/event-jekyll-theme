@@ -19,7 +19,7 @@ google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
 include: ['_2016_pages', '_2017_pages']
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 

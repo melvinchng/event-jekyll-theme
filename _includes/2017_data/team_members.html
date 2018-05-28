@@ -8,19 +8,19 @@
                 </div>
             </div>
             <div class="row">
-            {% for post in site.categories.2017_teams %}
+            {% for team in site.data.twenty_17.teams %}
                 <div class="col-md-4 col-sm-6 speakers-item">
-                    <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
+                    <a href="#{{ team.name }}" class="speakers-link" data-toggle="modal">
                         <div class="speakers-hover">
                             <div class="speakers-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="../css/2017_style/img/team/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                        <img src="../css/2017_style/img/team/{{ team.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="speakers-caption">
-                        <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
+                        <h4>{{ team.title }}</h4>
+                        <p class="text-muted">{{ team.subtitle }}</p>
                     </div>
                 </div>
             {% endfor %}
