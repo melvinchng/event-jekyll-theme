@@ -1,0 +1,4 @@
+Sitemap: 2019.ioling.org/sitemap.xml
+
+User-agent: *
+Disallow: /css

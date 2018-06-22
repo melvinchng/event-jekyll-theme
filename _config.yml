@@ -1,8 +1,8 @@
-title: Your Title
+title: IOL 2019 Yongin
 description: > # this means to ignore newlines until "baseurl:"
-  Your description
+  The official website of the 17th International Linguistics Olympiad, Yongin, Korea. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "iol2019.github.io" # the base hostname & protocol for your site
+url: "2019.ioling.org" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
@@ -10,14 +10,15 @@ facebook:
   app_id: 
 
 logo: "../css/2016_style/img/icon-large.png"
+background-image: "/css/2016_style/img/hufs.jpg"
 
 social: 
-  name: Your Facebook Page
-  link: "https://www.facebook.com/"
+  name: IOL 2019 Facebook
+  link: "https://www.facebook.com/iol2019"
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-include: ['_2016_pages', '_2017_pages']
+include: ['_2016_pages']
 
 gems:
   - jekyll-sitemap
@@ -26,9 +27,11 @@ gems:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: https://www.facebook.com
+    url: https://www.facebook.com/iol2019
   - title: twitter
-    url: https://twitter.com
+    url: https://twitter.com/iol2019
+  - title: envelope
+    url: mailto:iol2019@krlo.kr
 
 # Build settings
 markdown: kramdown
