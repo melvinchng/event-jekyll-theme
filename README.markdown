@@ -34,7 +34,7 @@ Two different design:
 - Google Analytics built in (replace `UA-xxxxxxxx-x` with your personal analytics verification key in `_includes/2019_data/head.html`)
 - SEO (check `_config.yml`)
 - Customized 404 Page Not Found Page
-- Designed to be futureproof as you can create a subpages for each year (eg. your-link.github.io/2015, your-link.github.io/2016, etc)
+- Designed to be futureproof as you can create a subpages for each year (eg. your-link.github.io/2015, your-link.github.io/2019, etc)
 - Header with your icon logo defined, but removed from source. 
 - Website logo in SVG defined, but removed from source.
 - Display PDF from Google Drive
@@ -49,7 +49,7 @@ Two different design:
 
 ## How To Use
 - The main stylesheet is stored `/css/2019_style`.
-- In `/css/2019_style/img` you will find where the pictures in `/2016` are stored at. You will find the images of all related posts in `/css/2019_style/img`. This setup is to ensure that we are easily to move from year to year by creating new folders.
+- In `/css/2019_style/img` you will find where the pictures in `/2019` are stored at. You will find the images of all related posts in `/css/2019_style/img`. This setup is to ensure that we are easily to move from year to year by creating new folders.
 - `_2019_pages` and `_2019_pages` are the folders that store subpages.
 - `_2019_data` and `_2019_data` are the folders that store each sections in home page. Those sections are can be removed by removing the `include` code in `_layout/2019_home.html` or `_layout/2019_home.html`.
 - `_2019_speakers` and `_2019_speakers` contain speakers' profile. They're written in markdown style. 

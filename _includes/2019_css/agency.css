@@ -326,7 +326,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #faf9f6;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -908,7 +908,7 @@ ul.social-buttons li a:active {
 
 ::selection {
     text-shadow: none;
-    background: #f2f2f2;
+    background: #faf9f6;
 }
 
 img::selection {
