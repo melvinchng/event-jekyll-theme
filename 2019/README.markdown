@@ -31,7 +31,7 @@ Two different design:
 ### Register Page
 - A page to redirect to a sign up page
 ### More features
-- Google Analytics built in (replace `UA-xxxxxxxx-x` with your personal analytics verification key in `_includes/2016_data/head.html`)
+- Google Analytics built in (replace `UA-xxxxxxxx-x` with your personal analytics verification key in `_includes/2019_data/head.html`)
 - SEO (check `_config.yml`)
 - Customized 404 Page Not Found Page
 - Designed to be futureproof as you can create a subpages for each year (eg. your-link.github.io/2015, your-link.github.io/2016, etc)
@@ -48,12 +48,12 @@ Two different design:
 6. For additional information about Jekyll, refer to the [official website](http://jekyllrb.com/). 
 
 ## How To Use
-- The main stylesheet is stored `/css/2016_style`.
-- In `/css/2016_style/img` you will find where the pictures in `/2016` are stored at. You will find the images of all related posts in `/css/2017_style/img`. This setup is to ensure that we are easily to move from year to year by creating new folders.
-- `_2016_pages` and `_2017_pages` are the folders that store subpages.
-- `_2016_data` and `_2017_data` are the folders that store each sections in home page. Those sections are can be removed by removing the `include` code in `_layout/2016_home.html` or `_layout/2017_home.html`.
-- `_2016_speakers` and `_2017_speakers` contain speakers' profile. They're written in markdown style. 
-- `_2017_teams` contains each team member's profile. They're written in markdown style. 
+- The main stylesheet is stored `/css/2019_style`.
+- In `/css/2019_style/img` you will find where the pictures in `/2016` are stored at. You will find the images of all related posts in `/css/2019_style/img`. This setup is to ensure that we are easily to move from year to year by creating new folders.
+- `_2019_pages` and `_2019_pages` are the folders that store subpages.
+- `_2019_data` and `_2019_data` are the folders that store each sections in home page. Those sections are can be removed by removing the `include` code in `_layout/2019_home.html` or `_layout/2019_home.html`.
+- `_2019_speakers` and `_2019_speakers` contain speakers' profile. They're written in markdown style. 
+- `_2019_teams` contains each team member's profile. They're written in markdown style. 
 - In order to view PDF correctly, sharing setting in Google Drive must set to "Public on the web".
 
 ## Enjoy!

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+  {% include 2019_data/head.html %}
+
+
+    <body id="page-top" class="index">
+
+    {% include 2019_data/header-home.html %}
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-heading">{{ page.title }}<br></div>
+                <div class="intro-lead-in">{{ page.Date }}</div>
+                <div class="intro-lead-in"><small><small>{{ page.Location }}</small></small><p /></div>
+                <a href="#intro" class="page-scroll btn btn-xl">Tell Me More</a>
+            </div>
+        </div>
+    </header>
+
+    {% include 2019_data/intro.html %}
+    {% include 2019_data/speakers.html %}
+    {% include 2019_data/about.html %}
+    {% include 2019_data/sponsors.html %}
+    {% include 2019_data/contact.html %}
+    {% include 2019_data/footer.html %}
+    {% include 2019_data/speakers_info.html %}
+    {% include 2019_data/js.html %}
+
+    </body>
+</html>

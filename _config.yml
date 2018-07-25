@@ -9,8 +9,8 @@ markdown: kramdown
 facebook:
   app_id: 
 
-logo: "../css/2016_style/img/icon-large.png"
-background-image: "/css/2016_style/img/hufs.jpg"
+logo: "../css/2019_style/img/icon-large.png"
+background-image: "/css/2019_style/img/hufs.jpg"
 
 social: 
   name: IOL 2019 Facebook
@@ -18,7 +18,7 @@ social:
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-include: ['_2016_pages']
+include: ['_2019_pages']
 
 gems:
   - jekyll-sitemap
