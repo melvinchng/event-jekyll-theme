@@ -1,26 +1,26 @@
-- title: Name
-  name: Name-1
+- title: Alexey Soshin
+  name: Alexey Soshin
   subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: Alexey.jpg
+  thumbnail: Alexey.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-2
+- title: Chetan Khatri
+  name: Chetan Khatri
   subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: Chetan_Speaker_2.png
+  thumbnail: Chetan_Speaker_2.png
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
+- title: Pierre Ricadat
   name: Name-3
   subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: Pierre_Ricadat.jpg
+  thumbnail: Pierre_Ricadat.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
