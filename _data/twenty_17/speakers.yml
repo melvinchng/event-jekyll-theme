@@ -1,26 +1,53 @@
 - title: Alexey Soshin
   name: Alexey Soshin
-  subtitle: Position
+  subtitle: Staff Engineer
   img: Alexey.jpg
-  thumbnail: Alexey.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  thumbnail: Alexey_Soshin.jpg
+  alt: Alexey Soshin
+  topic: Coming soon
+  description: Coming soon
 
 - title: Chetan Khatri
   name: Chetan Khatri
-  subtitle: Position
-  img: Chetan_Speaker_2.png
-  thumbnail: Chetan_Speaker_2.png
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  subtitle: FOSS Developer
+  img: Chetan_Khatri.jpg
+  thumbnail: Chetan_Khatri.jpg
+  alt: Chetan Khatri
+  topic: Coming soon
+  description: Coming soon
 
 - title: Pierre Ricadat
   name: Name-3
-  subtitle: Position
+  subtitle: Software Architect
   img: Pierre_Ricadat.jpg
   thumbnail: Pierre_Ricadat.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  alt: Pierre Ricadat
+  topic: Coming soon
+  description: Coming soon
+
+- title: Adam Fraser
+  name: Adam Fraser
+  subtitle: Position
+  img: Adam_Fraser.jpg
+  thumbnail: Adam_Fraser.jpg
+  alt: Adam Fraser
+  topic: Coming soon
+  description: Coming soon
+
+- title: Dejan Mijic
+  name: Dejan Mijic
+  subtitle: Senior Backend Engineer at Zalando SE
+  img: Dejan_Mijic.jpg
+  thumbnail: Dejan_Mijic.jpg
+  alt: Dejan Mijic
+  topic: Coming soon
+  description: Coming soon
+
+- title: Pierangelo Cecchetto
+  name: Pierangelo Cecchetto
+  subtitle: Backend Developer
+  img: Pierangelo_Cecchetto.jpg
+  thumbnail: Pierangelo_Cecchetto.jpg
+  alt: Pierangelo Cecchetto
+  topic: Coming soon
+  description: Coming soon
