@@ -25,10 +25,8 @@ plugins:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
-    url: https://www.facebook.com
   - title: twitter
-    url: https://twitter.com
+    url: https://twitter.com/FunScala2019
 
 # Build settings
 markdown: kramdown
