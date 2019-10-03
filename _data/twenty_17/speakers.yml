@@ -31,8 +31,22 @@
   img: Itamar_Ravid.jpg
   thumbnail: Itamar_Ravid.jpg
   alt: Itamar Ravid
-  topic: Coming soon
-  description: Coming soon
+  topic: Fancy (Z)Streams for Fancy Programs
+  description: "Streams are a declarative, high-level abstraction for representing
+many types of programs. In particular, purely functional streams built
+on top of effect monads are a joy to use for constructing performant,
+resource safe and concurrent applications. Many patterns written
+using manual concurrency management can be elegantly represented using
+streams, resulting in concise and correct programs.
+
+ZIO's streams library was introduced at the end of 2018. Since then,
+it has gone through several iterations, improving compositionality,
+resource saftey and support for concurrency. In this talk, we will
+show how, by using the ZStream and ZSink data types, we can quickly
+construct concurrent and resource-safe applications. We will also look
+at the internal representation of ZStream to gain a deeper
+understanding of how it works under the hood. No prior experience with
+the library is required!"
 
 - title: Pierre Ricadat
   name: Pierre-Ricadat
