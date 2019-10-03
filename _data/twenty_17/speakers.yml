@@ -1,28 +1,36 @@
-- title: Alexey Soshin
-  name: Alexey-Soshin
-  subtitle: Staff Engineer
-  img: Alexey_Soshin.jpg
-  thumbnail: Alexey_Soshin.jpg
-  alt: Alexey Soshin
-  topic: Scala/Kotlin interop
-  description: "Scala is a language that many companies use nowadays. But it’s also considered to be very complex and hard to master. So, some of those companies are looking to migrate to Kotlin. Do they need to write everything from scratch, though?
-In this talk, we’ll see how we can build Kotlin services on top of Scala infrastructure, so you can have best of both."
-
-- title: Chetan Khatri
-  name: Chetan-Khatri
-  subtitle: FOSS Developer
-  img: Chetan_Khatri.jpg
-  thumbnail: Chetan_Khatri.jpg
-  alt: Chetan Khatri
+- title: John A. De Goes
+  name: John A. De Goes
+  subtitle: Independent Consultant
+  img: john_de_goes.jpg
+  thumbnail: john_de_goes.jpg
+  alt: John A. De Goes
   topic: Coming soon
   description: Coming soon
 
 - title: Wiem Zine Elabidine
   name: Wiem-Zine-Elabidine
   subtitle: Software Engineer
-  img: wiemzine424x424.jpg
-  thumbnail: wiemzine424x424.jpg
+  img: wiem_zine_elabidine.jpg
+  thumbnail: wiem_zine_elabidine.jpg
   alt: Wiem Zine Elabidine
+  topic: Coming soon
+  description: Coming soon
+
+- title: Paul Phillips
+  name: Paul-Phillips
+  subtitle: Coming Soon
+  img: Paul_Phillips.jpg
+  thumbnail: Paul_Phillips.jpg
+  alt: Paul Phillips
+  topic: Coming soon
+  description: Coming soon
+
+- title: Itamar Ravid
+  name: Itamar-Ravid
+  subtitle: Coming soon
+  img: Itamar_Ravid.jpg
+  thumbnail: Itamar_Ravid.jpg
+  alt: Itamar Ravid
   topic: Coming soon
   description: Coming soon
 
@@ -48,6 +56,7 @@ errors, how to handle subscriptions, etc."
   alt: Adam Fraser
   topic: Coming soon
   description: Coming soon
+
 
 - title: Dejan Mijic
   name: Dejan-Mijic
@@ -77,15 +86,6 @@ During this talk we will build a fully testable ray tracer in Scala with ZIO usi
   topic: Coming soon
   description: Coming soon
 
-- title: Itamar Ravid
-  name: Itamar-Ravid
-  subtitle: Coming soon
-  img: Itamar_Ravid.jpg
-  thumbnail: Itamar_Ravid.jpg
-  alt: Itamar Ravid
-  topic: Coming soon
-  description: Coming soon
-
 - title: Matt Searle
   name: Matt-Searle
   subtitle: Coming Soon
@@ -104,12 +104,22 @@ During this talk we will build a fully testable ray tracer in Scala with ZIO usi
   topic: Coming soon
   description: Coming soon
 
-- title: Paul Phillips
-  name: Paul-Phillips
-  subtitle: Coming Soon
-  img: Paul_Phillips.jpg
-  thumbnail: Paul_Phillips.jpg
-  alt: Paul Phillips
+- title: Alexey Soshin
+  name: Alexey-Soshin
+  subtitle: Staff Engineer
+  img: Alexey_Soshin.jpg
+  thumbnail: Alexey_Soshin.jpg
+  alt: Alexey Soshin
+  topic: Scala/Kotlin interop
+  description: "Scala is a language that many companies use nowadays. But it’s also considered to be very complex and hard to master. So, some of those companies are looking to migrate to Kotlin. Do they need to write everything from scratch, though?
+In this talk, we’ll see how we can build Kotlin services on top of Scala infrastructure, so you can have best of both."
+
+- title: Chetan Khatri
+  name: Chetan-Khatri
+  subtitle: FOSS Developer
+  img: Chetan_Khatri.jpg
+  thumbnail: Chetan_Khatri.jpg
+  alt: Chetan Khatri
   topic: Coming soon
   description: Coming soon
 
