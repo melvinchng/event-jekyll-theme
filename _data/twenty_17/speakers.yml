@@ -34,6 +34,15 @@
   topic: Coming soon
   description: Coming soon
 
+- title: Kai
+  name: Kai
+  subtitle: Coming soon
+  img: Kai.jpg
+  thumbnail: Kai.jpg
+  alt: Kai
+  topic: Coming soon
+  description: Coming soon
+
 - title: Pierre Ricadat
   name: Pierre-Ricadat
   subtitle: Software Architect
@@ -76,6 +85,15 @@ errors, how to handle subscriptions, etc."
   topic: Ray Tracing with ZIO
   description: "In the FP realm in Scala, Tagless Final is a popular technique to have injectable, testable, extensible components. An alternative technique is the usage of environmental effects, that provides similar benefits, with a lower entry barrier and improved type-inference.
 During this talk we will build a fully testable ray tracer in Scala with ZIO using this environmental effects. We will also explore some useful combinators available in ZIO to build concurrent, resource-safe applications."
+
+- title: Pavel Shirshov
+  name: Pavel-Shirshov
+  subtitle: Coming soon
+  img: Pavel_Shirshov.jpg
+  thumbnail: Pavel_Shirshov.jpg
+  alt: Pavel Shirshov
+  topic: Coming soon
+  description: Coming soon
 
 - title: Jakub Kozlowski
   name: Jakub-Kozlowski
@@ -136,3 +154,4 @@ methods still involve the costly requirement for programmers to write
 generators, shrinking functions and properties. Validity-based testing
 promises free generators, free shrinking and cheap properties, to allow
 property-based testing to fulfill its true potential."
+
