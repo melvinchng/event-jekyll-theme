@@ -32,7 +32,7 @@ to minimize boilerplate, how to expose a pure API with explicit
 errors, how to handle subscriptions, etc."
 
 - title: Adam Fraser
-  name: Adam Fraser
+  name: Adam-Fraser
   subtitle: Position
   img: Adam_Fraser.jpg
   thumbnail: Adam_Fraser.jpg
@@ -86,14 +86,14 @@ During this talk we will build a fully testable ray tracer in Scala with ZIO usi
   topic: Coming soon
   description: Coming soon
 
-- title: Oleg_Nizhnik
+- title: Oleg Nizhnik
   name: Oleg-Nizhnik
   subtitle: Coming Soon
   img: Oleg_Nizhnik.jpg
   thumbnail: Oleg_Nizhnik.jpg
   alt: Oleg Nizhnik
-  topic: Coming soon
-  description: Coming soon
+  topic: Composition using Arrows and Monoidal Categories
+  description: "Monads and monad-like types are the perfect fit for many eDSLs in functional programming, however, sometimes we need to enforce stricter language requirements such as static process analysis, minimizing allocations, purity, totality and linear-like semantics (exactly-one use). In such cases, Arrows and Symmetric Monoidal Categories (SMC) may be a fine choice, still they are generally avoided because manual composing is hard. We present WIP macro library volga that is for arrows and SMC what is for-comprehension for monads. We will discuss use cases applicability of Arrows and SMC, as well as syntax and semantics of volga."
 
 - title: Paul Phillips
   name: Paul-Phillips
@@ -106,9 +106,14 @@ During this talk we will build a fully testable ray tracer in Scala with ZIO usi
 
 - title: Tom Sydney Kerckhove
   name: Tom-Sydney-Kerckhove
-  subtitle: Coming Soon
+  subtitle: Technical Leader, Speaker
   img: Tom_Sydney_Kerckhove.jpg
   thumbnail: Tom_Sydney_Kerckhove.jpg
   alt: Tom Sydney Kerckhove
-  topic: Coming soon
-  description: Coming soon
+  topic: Validity-based testing
+  description: "Writing correct software is difficult. Property testing has the
+potential to make safe software easier and cheaper. However, current
+methods still involve the costly requirement for programmers to write
+generators, shrinking functions and properties. Validity-based testing
+promises free generators, free shrinking and cheap properties, to allow
+property-based testing to fulfill its true potential."
