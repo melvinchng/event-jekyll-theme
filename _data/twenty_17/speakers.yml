@@ -27,7 +27,7 @@
 
 - title: Itamar Ravid
   name: Itamar-Ravid
-  subtitle: Coming soon
+  subtitle: Software consultant, DevOps.
   img: Itamar_Ravid.jpg
   thumbnail: Itamar_Ravid.jpg
   alt: Itamar Ravid
@@ -71,13 +71,21 @@ errors, how to handle subscriptions, etc."
   topic: Coming soon
   description: Coming soon
 
-
 - title: Dejan Mijic
   name: Dejan-Mijic
   subtitle: Senior Backend Engineer at Zalando SE
   img: Dejan_Mijic.jpg
   thumbnail: Dejan_Mijic.jpg
   alt: Dejan Mijic
+  topic: Coming soon
+  description: Coming soon
+
+- title: Przemyslaw Wierzbicki
+  name: Przemyslaw-Wierzbicki
+  subtitle: Coming soon
+  img: Przemyslaw_Wierzbicki.jpg
+  thumbnail: Przemyslaw_Wierzbicki.jpg
+  alt: Przemyslaw Wierzbicki
   topic: Coming soon
   description: Coming soon
 
