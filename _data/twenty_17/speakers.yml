@@ -78,7 +78,7 @@ errors, how to handle subscriptions, etc."
   thumbnail: Adam_Fraser.jpg
   alt: Adam Fraser
   topic: Coming soon
-  description: Coming soon
+  description: "As we gain more and more expressive ways of writing software using functional effects we also need tools to test that software. Unfortunately, existing testing frameworks have not kept up with the evolution of modern functional effect systems. In this talk we will learn how existing testing frameworks force us to treat effects as “second class citizens” and the power of treating effects as first class. Then we will discuss ZIO Test, a next generation testing library that takes this idea to its logical conclusion by making every test an effect. We will see how this makes many “hard” problems in testing easy and enables unifying features like property based testing that used to require separate libraries."
 
 - title: Dejan Mijic
   name: Dejan-Mijic
@@ -86,8 +86,15 @@ errors, how to handle subscriptions, etc."
   img: Dejan_Mijic.jpg
   thumbnail: Dejan_Mijic.jpg
   alt: Dejan Mijic
-  topic: Coming soon
-  description: Coming soon
+  topic: Let's gossip!
+  description: "Over the past couple of years, we have witnessed the emergence of functional effect
+libraries. While most of them successfully conquered single node computation, providing
+better solutions for concurrency than actors, distributed computation is still untamed.
+In this talk, Dejan and Przemyslaw will introduce their work on ZIO Keeper, a principled
+functional library for building distributed systems. They will present the building blocks
+of this library, explain the design choices behind them, and demonstrate their capabilities.
+Finally, they will wrap up the talk with a glimpse to the future, sketching the roadmap to a
+functional solution to the problem of distributed computation."
 
 - title: Przemyslaw Wierzbicki
   name: Przemyslaw-Wierzbicki
@@ -95,8 +102,15 @@ errors, how to handle subscriptions, etc."
   img: Przemyslaw_Wierzbicki.jpg
   thumbnail: Przemyslaw_Wierzbicki.jpg
   alt: Przemyslaw Wierzbicki
-  topic: Coming soon
-  description: Coming soon
+  topic: Let's gossip!
+  description: "Over the past couple of years, we have witnessed the emergence of functional effect
+libraries. While most of them successfully conquered single node computation, providing
+better solutions for concurrency than actors, distributed computation is still untamed.
+In this talk, Dejan and Przemyslaw will introduce their work on ZIO Keeper, a principled
+functional library for building distributed systems. They will present the building blocks
+of this library, explain the design choices behind them, and demonstrate their capabilities.
+Finally, they will wrap up the talk with a glimpse to the future, sketching the roadmap to a
+functional solution to the problem of distributed computation."
 
 - title: Pierangelo Cecchetto
   name: Pierangelo-Cecchetto
@@ -160,8 +174,12 @@ In this talk, we’ll see how we can build Kotlin services on top of Scala infra
   img: Chetan_Khatri.jpg
   thumbnail: Chetan_Khatri.jpg
   alt: Chetan Khatri
-  topic: Coming soon
-  description: Coming soon
+  topic: Demystify Functional effects with Apache Spark and Scala
+  description: "This talk will give a pragmatic approach to understanding the side effects of the very
+  popular Data engineering framework 'Apache Spark' and related transformations.
+  Apache Spark operations are side-effect driven.
+  It is very important to have control over those side-effects.
+  In the end, the talk will demonstrate production-ready implementation and design with ZIO."
 
 - title: Tom Sydney Kerckhove
   name: Tom-Sydney-Kerckhove
