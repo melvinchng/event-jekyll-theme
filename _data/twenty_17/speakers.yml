@@ -22,8 +22,15 @@
   img: Paul_Phillips.jpg
   thumbnail: Paul_Phillips.jpg
   alt: Paul Phillips
-  topic: Coming soon
-  description: Coming soon
+  topic: "xs: a collections cli"
+  description: "The pastiche of command line tools we utilize to process text can be
+reimagined more coherently as collections operations, where the
+collection is a sequence of strings, or a view imposed on a sequence of
+strings. The tool I present here has simplified my life in this regard.
+It offers a highly concise way to perform chains of collections
+operations (e.g. take/takeRight, drop/dropRight, slice, map, filter)
+with all of them designed to flourish as much as anything can amongst
+the grim ad hoc reality of unix pipelines. I call it xs."
 
 - title: Itamar Ravid
   name: Itamar-Ravid
@@ -50,7 +57,7 @@ the library is required!"
 
 - title: Kai
   name: Kai
-  subtitle: Coming soon
+  subtitle: Software Engineer at http://7mind.io
   img: Kai.jpg
   thumbnail: Kai.jpg
   alt: Kai
@@ -73,11 +80,11 @@ errors, how to handle subscriptions, etc."
 
 - title: Adam Fraser
   name: Adam-Fraser
-  subtitle: Position
+  subtitle: Scala Developer
   img: Adam_Fraser.jpg
   thumbnail: Adam_Fraser.jpg
   alt: Adam Fraser
-  topic: Coming soon
+  topic: Scala Developer
   description: "As we gain more and more expressive ways of writing software using functional effects we also need tools to test that software. Unfortunately, existing testing frameworks have not kept up with the evolution of modern functional effect systems. In this talk we will learn how existing testing frameworks force us to treat effects as “second class citizens” and the power of treating effects as first class. Then we will discuss ZIO Test, a next generation testing library that takes this idea to its logical conclusion by making every test an effect. We will see how this makes many “hard” problems in testing easy and enables unifying features like property based testing that used to require separate libraries."
 
 - title: Dejan Mijic
@@ -124,7 +131,7 @@ During this talk we will build a fully testable ray tracer in Scala with ZIO usi
 
 - title: Pavel Shirshov
   name: Pavel-Shirshov
-  subtitle: Coming soon
+  subtitle: Founder
   img: Pavel_Shirshov.jpg
   thumbnail: Pavel_Shirshov.jpg
   alt: Pavel Shirshov
@@ -133,7 +140,7 @@ During this talk we will build a fully testable ray tracer in Scala with ZIO usi
 
 - title: Jakub Kozlowski
   name: Jakub-Kozlowski
-  subtitle: Coming soon
+  subtitle: Functional developer
   img: Jakub_Kozlowski.jpg
   thumbnail: Jakub_Kozlowski.jpg
   alt: Jakub Kozlowski
@@ -151,7 +158,7 @@ During this talk we will build a fully testable ray tracer in Scala with ZIO usi
 
 - title: Oleg Nizhnik
   name: Oleg-Nizhnik
-  subtitle: Coming Soon
+  subtitle: Software Architect at Tinkoff.ru
   img: Oleg_Nizhnik.jpg
   thumbnail: Oleg_Nizhnik.jpg
   alt: Oleg Nizhnik
@@ -202,4 +209,4 @@ property-based testing to fulfill its true potential."
   thumbnail: Aleksandra_A_Holubitska.jpg
   alt: Oleksandra Holubitska
   topic: Coming soon
-  description: Coming soon
+  description: "Arrays are fast and don't box primitive values, but due to class tag requirements and mutability, they are painful to use and don't integrate well into functional code. In this presentation, Aleksandra A Holubitska introduces the audience to Chunk, a data type in ZIO that's designed to be friendly to use, immutable, and high-performance. Learn more about how you can replace usage of arrays in your application with this new high-performance data type that powers ZIO Streams and other libraries in the ZIO ecosystem."
