@@ -1,16 +1,16 @@
 - inverted:
   img: icon-about.jpeg
-  name: Theme, Vision, Mission
-  info: Read more about our Theme, Vision, and Mission
+  name: About
+  info: Read more about Functional Scala 2019 (London)
   link: /about
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
-  info: Check out the agenda
+  info: COMING SOON!
   link: /agenda
 - inverted: timeline-inverted
   img: icon-venue.jpeg
   name: Venue
-  info: Learn more about our location
+  info: COMING SOON!
   link: /venue
