@@ -32,6 +32,15 @@ operations (e.g. take/takeRight, drop/dropRight, slice, map, filter)
 with all of them designed to flourish as much as anything can amongst
 the grim ad hoc reality of unix pipelines. I call it xs."
 
+- title: Valentin Kasas
+  name:  Valentin-Kasas
+  subtitle: Scala Developer
+  img: Valentin_Kasas.jpg
+  thumbnail: Valentin_Kasas.jpg
+  alt: Valentin Kasas
+  topic: Coming soon
+  description: Coming soon 
+
 - title: Itamar Ravid
   name: Itamar-Ravid
   subtitle: Software consultant, DevOps.
