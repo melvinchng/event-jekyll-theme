@@ -39,7 +39,7 @@ the grim ad hoc reality of unix pipelines. I call it xs."
   thumbnail: Valentin_Kasas.jpg
   alt: Valentin Kasas
   topic: Coming soon
-  description: Coming soon 
+  description: Coming soon
 
 - title: Itamar Ravid
   name: Itamar-Ravid
@@ -217,5 +217,25 @@ property-based testing to fulfill its true potential."
   img: Aleksandra_A_Holubitska.jpg
   thumbnail: Aleksandra_A_Holubitska.jpg
   alt: Oleksandra Holubitska
-  topic: Coming soon
-  description: "Arrays are fast and don't box primitive values, but due to class tag requirements and mutability, they are painful to use and don't integrate well into functional code. In this presentation, Aleksandra A Holubitska introduces the audience to Chunk, a data type in ZIO that's designed to be friendly to use, immutable, and high-performance. Learn more about how you can replace usage of arrays in your application with this new high-performance data type that powers ZIO Streams and other libraries in the ZIO ecosystem."
+  topic: "ZIO Chunk: A Fast, Pure Alternative to Arrays"
+  description: "Arrays are fast and don't box primitive values, but due to class tag
+  requirements and mutability, they are painful to use and don't integrate well into functional code.
+  In this presentation, Aleksandra A Holubitska introduces the audience to Chunk,
+  a data type in ZIO that's designed to be friendly to use,
+  immutable, and high-performance.
+  Learn more about how you can replace usage of arrays in your application with
+  this new high-performance data type that powers ZIO Streams and other libraries in the ZIO ecosystem."
+
+- title: Mike Kotsur
+  name: Mike-Kotsur
+  subtitle: Technical Leader
+  img: Mike_Kotsur.jpg
+  thumbnail: Mike_Kotsur.jpg
+  alt: Tom Sydney Kerckhove
+  topic: Prototyping the future with functional Scala
+  description: "A few months ago I quit my job and became an independent contractor so that I could help companies build great applications using Scala.
+  My first client, a medium sized company, which develops SAAS products for universities and research organizations, asked me to help the team to develop
+  a kick-ass prototype within a very limited period of time.
+In this talk I will explain how the team came to the conclusion that Scala is a good solution for the job of building a worker for preparing,
+executing and retiring Docker containers and how FP and the combo of Cats Effect, FS2 and RabbitMQ helped me, who didn’t use those libs in production before, to go in a fast-forward mode without compromising quality.
+And finally, we will try to conclude if functional Scala is a good choice for prototyping the future."
