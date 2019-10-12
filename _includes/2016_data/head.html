@@ -1,16 +1,27 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Twitter cards metadatas -->
+<meta name="twitter:card" content="Functional Scala 2019">
+<meta name="twitter:site" content="@jdegoes">
+<meta name="twitter:creator" content="@jdegoes">
+{% if page.title %}
+  <meta name="twitter:title" content="{{ page.title }}">
+{% else %}
+  <meta name="twitter:title" content="{{ site.title }}">
+{% endif %}
+{% if page.url %}
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+{% endif %}
+{% if page.description %}
+  <meta name="twitter:description" content="{{ page.description }}">
+{% else %}
+  <meta name="twitter:description" content="{{ site.description }}">
+{% endif %}
+{% if page.header-bg %}
+  <meta name="twitter:image:src" content="{{ site.url }}/{{ /css/2016_style/img/header-bg.jpg }}">
+{% endif %}
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="viewport" content="width=device-width">
-    <meta name="twitter:card" content="FunScala2019" />
-    <meta name="twitter:site" content="@jdegoes" />
-    <meta name="twitter:creator" content="@jdegoes" />
-    <meta property="og:title" content="FunScala2019"/>
-    <meta property="og:image" content="https://www.functionalscala.com/css/2016_style/img/header-bg.jpg"/>
-    <meta property="og:description" content="Functional Scala 2019 (London Edition) is a free 2-day conference devoted to using the powerful features and libraries of the Scala programming language to build robust, modern, software that is easier to understand and maintain."/>
-    <meta property="og:url" content="https://www.functionalscala.com"/>
-    
 
     {% seo %}
 
