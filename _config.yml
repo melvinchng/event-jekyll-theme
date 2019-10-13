@@ -1,8 +1,8 @@
-title: Functional Scala 2019
-description: > # this means to ignore newlines until "baseurl:"
-  Functional Scala 2019 (London Edition) is a free 2-day conference devoted to using the powerful features and libraries of the Scala programming language to build robust, modern, software that is easier to understand and maintain.
+title: "Functional Scala 2019"
+description: "Functional Scala 2019 (London Edition) is a free 2-day conference devoted to using the powerful features and libraries of the Scala programming language to build robust, modern, software that is easier to understand and maintain."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.functionalscala.com/" # the base hostname & protocol for your site
+title_image: "https://www.functionalscala.com/css/2016_style/img/header-bg.jpg"
 # Build settings
 markdown: kramdown
 
