@@ -1,5 +1,35 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 9:00 AM - 9:50 AM
+  info: "<u>KEYNOTE: XS — A Collections CLI</u><br><b>Paul Phillips</b>"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 10:00 AM - 10:50 AM
+  info: "<u>Hyperpractical Testing with DiStage-Testkit</u><br><b>Pavel Shirshov & Kai</b>"
+
+- time: 11:00 AM - 11:50 AM
+  info: "<u>Designing a Functional GraphQL Library</u><br><b>Pierre Ricadat</b>"
+
+- time: 12:00 PM - 1:00 PM
+  info: "<b>LUNCH BREAK</b>"  
+
+- time: 1:00 PM - 1:50 PM
+  info: "<u>Designing a Functional GraphQL Library</u><br><b>Pierre Ricadat</b>"
+
+- time: 1:00 PM - 1:50 PM
+  info: "<u>TBA</u><br><b>Matt Searle</b>"
+
+- time: 1:00 PM - 1:50 PM
+  info: "<u>Ray Tracing with ZIO</u><br><b>Pierangelo Cecchetto</b>"
+
+- time: 2:00 PM - 2:50 PM
+  info: "<u>Let's Gossip!</u><br><b>Dejan Mijic & Przemyslaw Wierzbicki</b>"
+
+- time: 2:00 PM - 2:50 PM
+  info: "<u>Composition using Arrows and Monoidal Categories</u><br><b>Oleg Nizhnik</b>"
+
+- time: 3:00 PM - 3:50 PM
+  info: "<u>ZIO Chunk: A Fast, Pure Alternative to Arrays</u><br><b>Oleksandra A Holubitska</b>"
+
+- time: 4:00 PM - 4:50 PM
+  info: "<u>Prototyping the Future with Functional Scala</u><br><b>Mike Kotsur</b>"
+
+- time: 5:00 PM - 5:50 PM
+  info: "<u>KEYNOTE: TBA</u><br><b>Valentin Kasas</b>"

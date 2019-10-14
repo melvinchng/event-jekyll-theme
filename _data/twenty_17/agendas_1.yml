@@ -1,5 +1,26 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 9:00 AM - 9:50 AM
+  info: "<u>KEYNOTE: Scala: End Game</u><br><b>John A. De Goes & Wiem Zine Elabidine</b>"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 10:00 AM - 10:50 AM
+  info: "<u>Fancy (Z)Streams for Fancy Programs</u><br><b>Itamar Ravid</b>"
+
+- time: 11:00 AM - 11:50 AM
+  info: "<u>TBA</u><br><b>Jakub Kozlowski</b>"
+
+- time: 12:00 PM - 1:00 PM
+  info: "<b>LUNCH BREAK</b>"  
+
+- time: 1:00 PM - 1:50 PM
+  info: "<u>Scala & Kotlin, Working Together</u><br><b>Alexey Soshin</b>"
+
+- time: 2::00 PM - 2:50 PM
+  info: "<u>Demystify Functional effects with Apache Spark and Scala</u><br><b>Chetan Khatri</b>"
+
+- time: 3:00 PM - 3:50 PM
+  info: "<u>Unveiling ZIO Test: A New Testing Library for Functional Scala</u><br><b>Adam Fraser</b>"
+
+- time: 4:00 PM - 4:50 PM
+  info: "<u>Validity-Based Testing</u><br><b>Tom Sydney Kerckhove</b>"
+
+- time: 5:00 PM - 5:50 PM
+  info: "<u>KEYNOTE: TBA</u><br><b>TBA</b>"
