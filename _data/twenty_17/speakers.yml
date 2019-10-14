@@ -66,11 +66,11 @@ the library is required!"
 
 - title: Kai
   name: Kai
-  subtitle: Software Engineer at http://7mind.io
+  subtitle: Software Engineer at 7mind.io
   img: Kai.jpg
   thumbnail: Kai.jpg
   alt: Kai
-  topic: Coming soon
+  topic: Hyperpractical testing with distage-testkit
   description: Coming soon
 
 - title: Pierre Ricadat
@@ -93,8 +93,14 @@ errors, how to handle subscriptions, etc."
   img: Adam_Fraser.jpg
   thumbnail: Adam_Fraser.jpg
   alt: Adam Fraser
-  topic: Scala Developer
-  description: "As we gain more and more expressive ways of writing software using functional effects we also need tools to test that software. Unfortunately, existing testing frameworks have not kept up with the evolution of modern functional effect systems. In this talk we will learn how existing testing frameworks force us to treat effects as “second class citizens” and the power of treating effects as first class. Then we will discuss ZIO Test, a next generation testing library that takes this idea to its logical conclusion by making every test an effect. We will see how this makes many “hard” problems in testing easy and enables unifying features like property based testing that used to require separate libraries."
+  topic: The Power of Purely Functional Testing with ZIO Test
+  description: "As we gain more and more expressive ways of writing software using functional effects, we also need tools to test that software.
+  Unfortunately, existing testing frameworks have not kept up with the evolution of modern functional effect systems.
+  In this talk, Adam Fraser will first show how existing testing frameworks force developers to treat effects as 'second class citizens',
+  and then demonstrate the power of treating effects as first class values.
+  Then Adam will introduce ZIO Test, a next generation testing
+  library co-developed by Adam that takes this idea to its logical conclusion by making every test an effect. Finally, Adam will demonstrate how this functional approach makes many “hard” problems in testing easy, and completely unifies features like property-based testing that used to require separate libraries.
+Whether you use Future, Monix, Cats IO, or ZIO, come discover the power of purely functional testing with ZIO Test!"
 
 - title: Dejan Mijic
   name: Dejan-Mijic
@@ -140,11 +146,11 @@ During this talk we will build a fully testable ray tracer in Scala with ZIO usi
 
 - title: Pavel Shirshov
   name: Pavel-Shirshov
-  subtitle: Founder
+  subtitle: Founder of 7mind.io
   img: Pavel_Shirshov.jpg
   thumbnail: Pavel_Shirshov.jpg
   alt: Pavel Shirshov
-  topic: Coming soon
+  topic: Hyperpractical testing with distage-testkit
   description: Coming soon
 
 - title: Jakub Kozlowski
