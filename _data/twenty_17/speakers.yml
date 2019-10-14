@@ -32,6 +32,15 @@ operations (e.g. take/takeRight, drop/dropRight, slice, map, filter)
 with all of them designed to flourish as much as anything can amongst
 the grim ad hoc reality of unix pipelines. I call it xs."
 
+- title: Valentin Kasas
+  name:  Valentin-Kasas
+  subtitle: Scala Developer
+  img: Valentin_Kasas.jpg
+  thumbnail: Valentin_Kasas.jpg
+  alt: Valentin Kasas
+  topic: Coming soon
+  description: Coming soon
+
 - title: Itamar Ravid
   name: Itamar-Ravid
   subtitle: Software consultant, DevOps.
@@ -57,11 +66,11 @@ the library is required!"
 
 - title: Kai
   name: Kai
-  subtitle: Software Engineer at http://7mind.io
+  subtitle: Software Engineer at 7mind.io
   img: Kai.jpg
   thumbnail: Kai.jpg
   alt: Kai
-  topic: Coming soon
+  topic: Hyperpractical testing with distage-testkit
   description: Coming soon
 
 - title: Pierre Ricadat
@@ -85,7 +94,13 @@ errors, how to handle subscriptions, etc."
   thumbnail: Adam_Fraser.jpg
   alt: Adam Fraser
   topic: "Unveiling ZIO Test: A New Testing Library for Functional Scala"
-  description: "As we gain more and more expressive ways of writing software using functional effects we also need tools to test that software. Unfortunately, existing testing frameworks have not kept up with the evolution of modern functional effect systems. In this talk we will learn how existing testing frameworks force us to treat effects as “second class citizens” and the power of treating effects as first class. Then we will discuss ZIO Test, a next generation testing library that takes this idea to its logical conclusion by making every test an effect. We will see how this makes many “hard” problems in testing easy and enables unifying features like property based testing that used to require separate libraries."
+  description: "As we gain more and more expressive ways of writing software using functional effects, we also need tools to test that software.
+  Unfortunately, existing testing frameworks have not kept up with the evolution of modern functional effect systems.
+  In this talk, Adam Fraser will first show how existing testing frameworks force developers to treat effects as 'second class citizens',
+  and then demonstrate the power of treating effects as first class values.
+  Then Adam will introduce ZIO Test, a next generation testing
+  library co-developed by Adam that takes this idea to its logical conclusion by making every test an effect. Finally, Adam will demonstrate how this functional approach makes many “hard” problems in testing easy, and completely unifies features like property-based testing that used to require separate libraries.
+Whether you use Future, Monix, Cats IO, or ZIO, come discover the power of purely functional testing with ZIO Test!"
 
 - title: Dejan Mijic
   name: Dejan-Mijic
@@ -131,11 +146,11 @@ During this talk, we will build a fully testable ray tracer in Scala with ZIO us
 
 - title: Pavel Shirshov
   name: Pavel-Shirshov
-  subtitle: Founder
+  subtitle: Founder of 7mind.io
   img: Pavel_Shirshov.jpg
   thumbnail: Pavel_Shirshov.jpg
   alt: Pavel Shirshov
-  topic: Coming soon
+  topic: Hyperpractical testing with distage-testkit
   description: Coming soon
 
 - title: Jakub Kozlowski
@@ -208,5 +223,25 @@ property-based testing to fulfill its true potential."
   img: Aleksandra_A_Holubitska.jpg
   thumbnail: Aleksandra_A_Holubitska.jpg
   alt: Oleksandra Holubitska
-  topic: Coming soon
-  description: "Arrays are fast and don't box primitive values, but due to class tag requirements and mutability, they are painful to use and don't integrate well into functional code. In this presentation, Aleksandra A Holubitska introduces the audience to Chunk, a data type in ZIO that's designed to be friendly to use, immutable, and high-performance. Learn more about how you can replace usage of arrays in your application with this new high-performance data type that powers ZIO Streams and other libraries in the ZIO ecosystem."
+  topic: "ZIO Chunk: A Fast, Pure Alternative to Arrays"
+  description: "Arrays are fast and don't box primitive values, but due to class tag
+  requirements and mutability, they are painful to use and don't integrate well into functional code.
+  In this presentation, Aleksandra A Holubitska introduces the audience to Chunk,
+  a data type in ZIO that's designed to be friendly to use,
+  immutable, and high-performance.
+  Learn more about how you can replace usage of arrays in your application with
+  this new high-performance data type that powers ZIO Streams and other libraries in the ZIO ecosystem."
+
+- title: Mike Kotsur
+  name: Mike-Kotsur
+  subtitle: Technical Leader
+  img: Mike_Kotsur.jpg
+  thumbnail: Mike_Kotsur.jpg
+  alt: Tom Sydney Kerckhove
+  topic: Prototyping the future with functional Scala
+  description: "A few months ago I quit my job and became an independent contractor so that I could help companies build great applications using Scala.
+  My first client, a medium sized company, which develops SAAS products for universities and research organizations, asked me to help the team to develop
+  a kick-ass prototype within a very limited period of time.
+In this talk I will explain how the team came to the conclusion that Scala is a good solution for the job of building a worker for preparing,
+executing and retiring Docker containers and how FP and the combo of Cats Effect, FS2 and RabbitMQ helped me, who didn’t use those libs in production before, to go in a fast-forward mode without compromising quality.
+And finally, we will try to conclude if functional Scala is a good choice for prototyping the future."
