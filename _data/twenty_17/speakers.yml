@@ -84,7 +84,7 @@ errors, how to handle subscriptions, etc."
   img: Adam_Fraser.jpg
   thumbnail: Adam_Fraser.jpg
   alt: Adam Fraser
-  topic: Scala Developer
+  topic: "Unveiling ZIO Test: A New Testing Library for Functional Scala"
   description: "As we gain more and more expressive ways of writing software using functional effects we also need tools to test that software. Unfortunately, existing testing frameworks have not kept up with the evolution of modern functional effect systems. In this talk we will learn how existing testing frameworks force us to treat effects as “second class citizens” and the power of treating effects as first class. Then we will discuss ZIO Test, a next generation testing library that takes this idea to its logical conclusion by making every test an effect. We will see how this makes many “hard” problems in testing easy and enables unifying features like property based testing that used to require separate libraries."
 
 - title: Dejan Mijic
@@ -93,7 +93,7 @@ errors, how to handle subscriptions, etc."
   img: Dejan_Mijic.jpg
   thumbnail: Dejan_Mijic.jpg
   alt: Dejan Mijic
-  topic: Let's gossip!
+  topic: Let's Gossip!
   description: "Over the past couple of years, we have witnessed the emergence of functional effect
 libraries. While most of them successfully conquered single node computation, providing
 better solutions for concurrency than actors, distributed computation is still untamed.
@@ -109,7 +109,7 @@ functional solution to the problem of distributed computation."
   img: Przemyslaw_Wierzbicki.jpg
   thumbnail: Przemyslaw_Wierzbicki.jpg
   alt: Przemyslaw Wierzbicki
-  topic: Let's gossip!
+  topic: Let's Gossip!
   description: "Over the past couple of years, we have witnessed the emergence of functional effect
 libraries. While most of them successfully conquered single node computation, providing
 better solutions for concurrency than actors, distributed computation is still untamed.
@@ -126,8 +126,8 @@ functional solution to the problem of distributed computation."
   thumbnail: Pierangelo_Cecchetto.jpg
   alt: Pierangelo-Cecchetto
   topic: Ray Tracing with ZIO
-  description: "In the FP realm in Scala, Tagless Final is a popular technique to have injectable, testable, extensible components. An alternative technique is the usage of environmental effects, that provides similar benefits, with a lower entry barrier and improved type-inference.
-During this talk we will build a fully testable ray tracer in Scala with ZIO using this environmental effects. We will also explore some useful combinators available in ZIO to build concurrent, resource-safe applications."
+  description: "In the FP realm in Scala, tagless-final is a popular technique to have injectable, testable, extensible components. An alternative technique is the usage of environmental effects, which provides similar benefits, with a lower entry barrier and improved type-inference.
+During this talk, we will build a fully testable ray tracer in Scala with ZIO using environmental effects. We will also explore some useful combinators available in ZIO to build concurrent, resource-safe applications."
 
 - title: Pavel Shirshov
   name: Pavel-Shirshov
@@ -163,7 +163,7 @@ During this talk we will build a fully testable ray tracer in Scala with ZIO usi
   thumbnail: Oleg_Nizhnik.jpg
   alt: Oleg Nizhnik
   topic: Composition using Arrows and Monoidal Categories
-  description: "Monads and monad-like types are the perfect fit for many eDSLs in functional programming, however, sometimes we need to enforce stricter language requirements such as static process analysis, minimizing allocations, purity, totality and linear-like semantics (exactly-one use). In such cases, Arrows and Symmetric Monoidal Categories (SMC) may be a fine choice, still they are generally avoided because manual composing is hard. We present WIP macro library volga that is for arrows and SMC what is for-comprehension for monads. We will discuss use cases applicability of Arrows and SMC, as well as syntax and semantics of volga."
+  description: "Monads and monad-like types are the perfect fit for many eDSLs in functional programming. However, sometimes we need to enforce stricter language requirements, such as static process analysis, minimizing allocations, purity, totality and linear-like semantics (exactly-one use). In such cases, Arrows and Symmetric Monoidal Categories (SMC) may be a fine choice, still they are generally avoided because manual composition is difficult. We present a WIP macro library volga that is for arrows and SMC what is for-comprehension is for monads. We will discuss use cases applicability of Arrows and SMC, as well as syntax and semantics of volga."
 
 - title: Alexey Soshin
   name: Alexey-Soshin
@@ -171,7 +171,7 @@ During this talk we will build a fully testable ray tracer in Scala with ZIO usi
   img: Alexey_Soshin.jpg
   thumbnail: Alexey_Soshin.jpg
   alt: Alexey Soshin
-  topic: Scala/Kotlin interop
+  topic: Scala & Kotlin, Working Together
   description: "Scala is a language that many companies use nowadays. But it’s also considered to be very complex and hard to master. So, some of those companies are looking to migrate to Kotlin. Do they need to write everything from scratch, though?
 In this talk, we’ll see how we can build Kotlin services on top of Scala infrastructure, so you can have best of both."
 
