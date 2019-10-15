@@ -26,7 +26,7 @@ Attendees will learn about powerful new simplifications coming to Scala 3; new l
 
 - title: Paul Phillips
   name: Paul-Phillips
-  subtitle: Coming Soon
+  subtitle: Eternal outsider
   img: Paul_Phillips.jpg
   thumbnail: Paul_Phillips.jpg
   alt: Paul Phillips
@@ -253,3 +253,18 @@ property-based testing to fulfill its true potential."
 In this talk I will explain how the team came to the conclusion that Scala is a good solution for the job of building a worker for preparing,
 executing and retiring Docker containers and how FP and the combo of Cats Effect, FS2 and RabbitMQ helped me, who didn’t use those libs in production before, to go in a fast-forward mode without compromising quality.
 And finally, we will try to conclude if functional Scala is a good choice for prototyping the future."
+
+- title: Lander Lopez
+  name: Lander-Lopez
+  subtitle: Coming soon
+  img: Lander_Lopez.jpg
+  thumbnail: Lander_Lopez.jpg
+  alt: Lander Lopez
+  topic: Practical logic(al) programming with Dotty
+  description: "The upcoming Dotty/Scala 3.0 will enable a new level or logic and algebraric programming at the type level.
+We will be able to use products and coproducts at the type level. These are the equivalent of tuple and Eithers
+at the value level.
+After a primer on these new capabilities, we will explore how the FP machinery behind ZIO and
+other pure FP libraries can be simplified. The new encodings make complex topics like MonadTransformers approachable
+for FP beginners. Some of these techniques push the limits of dotty's type system,
+so we will be extending the typechecker through dotty's extension mechanisms."
