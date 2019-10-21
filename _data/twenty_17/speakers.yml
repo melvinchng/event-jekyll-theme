@@ -40,6 +40,15 @@ operations (e.g. take/takeRight, drop/dropRight, slice, map, filter)
 with all of them designed to flourish as much as anything can amongst
 the grim ad hoc reality of unix pipelines. I call it xs."
 
+- title: Jon Pretty
+  name: Jon-Pretty
+  subtitle: Scala programmer
+  img: Jon_Pretty.jpg
+  thumbnail: Jon_Pretty.jpg
+  alt: Jon Pretty
+  topic: Coming soon
+  description: Coming soon
+
 - title: Valentin Kasas
   name:  Valentin-Kasas
   subtitle: Scala Developer
@@ -268,3 +277,12 @@ After a primer on these new capabilities, we will explore how the FP machinery b
 other pure FP libraries can be simplified. The new encodings make complex topics like MonadTransformers approachable
 for FP beginners. Some of these techniques push the limits of dotty's type system,
 so we will be extending the typechecker through dotty's extension mechanisms."
+
+- title: Piotr Golebiewski
+  name: Piotr-Golebiewski
+  subtitle: Coming soon
+  img: Piotr_Golebiewski.jpg
+  thumbnail: Piotr_Golebiewski.jpg
+  alt: Piotr Golebiewski
+  topic: coming soon
+  description: coming soon
