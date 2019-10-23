@@ -88,7 +88,51 @@ the library is required!"
   thumbnail: Kai.jpg
   alt: Kai
   topic: Hyperpractical Testing with DiStage-Testkit
-  description: Coming soon
+  description: "Having a proper test suite can turn ongoing application
+  maintenance and development into pure joy – the best tests check meaningful properties,
+  not the implementation details, and hold no impliict assumptions about their
+  test environment - every test case must be self-contained and portable.
+  To ensure that tests are free of implementation details and environment dependency,
+  we may simply run them in a different test environment,
+  with different implementations of components.
+  But the boileplate and manual work involved in rewiring components, writing hardcoded
+  fixtures and setting up different test environments make this very hard to do at scale.
+  To tackle this problem we've created distage & distage-testkit, distage-testkit gives you the
+  following superpowers:
+* ability to easily swap out individual components or entire test environments
+* principled & leak-free control of global resources for integration testing – docker containers, DBs, DDLs
+* execute effects or allocate resources per-test, e.g. generate random fixtures per-test
+* first-class testing of functional effects
+* write tests as lambdas – access test fixtures via parameters or ZIO Environment
+...and more! We'll also discuss general testing practices and what really
+distinguishes good tests from great tests."
+
+- title: Pavel Shirshov
+  name: Pavel-Shirshov
+  subtitle: Founder of 7mind.io
+  img: Pavel_Shirshov.jpg
+  thumbnail: Pavel_Shirshov.jpg
+  alt: Pavel Shirshov
+  topic: Hyperpractical Testing with DiStage-Testkit
+  description: "Having a proper test suite can turn ongoing application
+  maintenance and development into pure joy – the best tests check meaningful properties,
+  not the implementation details, and hold no impliict assumptions about their
+  test environment - every test case must be self-contained and portable.
+  To ensure that tests are free of implementation details and environment dependency,
+  we may simply run them in a different test environment,
+  with different implementations of components.
+  But the boileplate and manual work involved in rewiring components, writing hardcoded
+  fixtures and setting up different test environments make this very hard to do at scale.
+  To tackle this problem we've created distage & distage-testkit, distage-testkit gives you the
+  following superpowers:
+* ability to easily swap out individual components or entire test environments
+* principled & leak-free control of global resources for integration testing – docker containers, DBs, DDLs
+* execute effects or allocate resources per-test, e.g. generate random fixtures per-test
+* first-class testing of functional effects
+* write tests as lambdas – access test fixtures via parameters or ZIO Environment
+...and more! We'll also discuss general testing practices and what really
+distinguishes good tests from great tests."
+
 
 - title: Pierre Ricadat
   name: Pierre-Ricadat
@@ -160,15 +204,6 @@ functional solution to the problem of distributed computation."
   topic: Ray Tracing with ZIO
   description: "In the FP realm in Scala, tagless-final is a popular technique to have injectable, testable, extensible components. An alternative technique is the usage of environmental effects, which provides similar benefits, with a lower entry barrier and improved type-inference.
 During this talk, we will build a fully testable ray tracer in Scala with ZIO using environmental effects. We will also explore some useful combinators available in ZIO to build concurrent, resource-safe applications."
-
-- title: Pavel Shirshov
-  name: Pavel-Shirshov
-  subtitle: Founder of 7mind.io
-  img: Pavel_Shirshov.jpg
-  thumbnail: Pavel_Shirshov.jpg
-  alt: Pavel Shirshov
-  topic: Hyperpractical Testing with DiStage-Testkit
-  description: Coming soon
 
 - title: Jakub Kozlowski
   name: Jakub-Kozlowski
