@@ -129,7 +129,6 @@ the library is required!"
 <p>* write tests as lambdas – access test fixtures via parameters or ZIO Environment</p>
 <p>...and more! We'll also discuss general testing practices and what really distinguishes good tests from great tests.</p>"
 
-
 - title: Pierre Ricadat
   name: Pierre-Ricadat
   subtitle: Software Architect
