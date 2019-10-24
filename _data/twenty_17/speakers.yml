@@ -100,6 +100,7 @@ the library is required!"
   To tackle this problem we've created distage & distage-testkit, distage-testkit gives you the
   following superpowers:
 <p>* ability to easily swap out individual components or entire test environments </p>
+<p>* principled & leak-free control of global resources for integration testing – docker containers, DBs, DDLs</p>
 <p>* execute effects or allocate resources per-test, e.g. generate random fixtures per-test</p>
 <p>* first-class testing of functional effects</p>
 <p>* write tests as lambdas – access test fixtures via parameters or ZIO Environment</p>
@@ -124,6 +125,7 @@ the library is required!"
   To tackle this problem we've created distage & distage-testkit, distage-testkit gives you the
   following superpowers:
 <p>* ability to easily swap out individual components or entire test environments </p>
+<p>* principled & leak-free control of global resources for integration testing – docker containers, DBs, DDLs</p>
 <p>* execute effects or allocate resources per-test, e.g. generate random fixtures per-test</p>
 <p>* first-class testing of functional effects</p>
 <p>* write tests as lambdas – access test fixtures via parameters or ZIO Environment</p>
