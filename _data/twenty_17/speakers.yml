@@ -40,6 +40,27 @@ operations (e.g. take/takeRight, drop/dropRight, slice, map, filter)
 with all of them designed to flourish as much as anything can amongst
 the grim ad hoc reality of unix pipelines. I call it xs."
 
+- title: Eric Torreborre
+  name: Eric-Torreborre
+  subtitle: Senior Software Engineer
+  img: Eric_Torreborre.jpg
+  thumbnail: Eric_Torreborre.jpg
+  alt: Eric Torreborre
+  topic: The many faces of modularity
+  description: "Functional Programming is on the rise and many
+  programmers fall in love with the idea that they can build well-behaved programs from small, well-understood, functions.
+However our community is still wondering how to best build large applications and services.
+Many techniques co-exist nowadays: functions-only, MTL, effects, Tagless-final, ReaderT pattern, dependency injection...
+This can be so confusing for newcomers.
+This talk will take a 'zoom out' approach and come back to what we are really after: modularity.
+We will embark on a 'modularity tour':
+<p>* Why is it so important to have modular programs?</p>
+<p>* Why is it so hard to achieve modularity?</p>
+<p>* What can we expect from today's techniques?</p>
+<p>* What can we hope from the ongoing research?</p>
+In the end the attendants should go out the talk
+with a renewed interest for seeing their programs as Lego bricks that they can assemble with childlike  pleasure!"
+
 - title: Jon Pretty
   name: Jon-Pretty
   subtitle: Scala programmer
