@@ -287,21 +287,6 @@ generators, shrinking functions and properties. Validity-based testing
 promises free generators, free shrinking and cheap properties, to allow
 property-based testing to fulfill its true potential."
 
-- title: Oleksandra A Holubitska
-  name:  Oleksandra-A-Holubitska
-  subtitle: Web Developer
-  img: Aleksandra_A_Holubitska.jpg
-  thumbnail: Aleksandra_A_Holubitska.jpg
-  alt: Oleksandra Holubitska
-  topic: "ZIO Chunk: A Fast, Pure Alternative to Arrays"
-  description: "Arrays are fast and don't box primitive values, but due to class tag
-  requirements and mutability, they are painful to use and don't integrate well into functional code.
-  In this presentation, Aleksandra A Holubitska introduces the audience to Chunk,
-  a data type in ZIO that's designed to be friendly to use,
-  immutable, and high-performance.
-  Learn more about how you can replace usage of arrays in your application with
-  this new high-performance data type that powers ZIO Streams and other libraries in the ZIO ecosystem."
-
 - title: Mike Kotsur
   name: Mike-Kotsur
   subtitle: Technical Leader
@@ -330,6 +315,33 @@ After a primer on these new capabilities, we will explore how the FP machinery b
 other pure FP libraries can be simplified. The new encodings make complex topics like MonadTransformers approachable
 for FP beginners. Some of these techniques push the limits of dotty's type system,
 so we will be extending the typechecker through dotty's extension mechanisms."
+
+- title: Matthias Berndt
+  name: Matthias-Berndt
+  subtitle: Coming soon
+  img: Matthias_Berndt.jpg
+  thumbnail: Matthias_Berndt.jpg
+  alt: Matthias Berndt
+  topic: "Next level type safety: An Intro to Generalized Algebraic Data Types"
+  description: "Generalized Algebraic Data Types, or GADTs for short, are a powerful but little-known feature of the Scala type system.
+  They enable a much wider set of invariants to be expressed and enforced through the type system than is possible without.
+  In this talk, I will present a simple expression DSL and how to leverage GADTs to achieve a robust and performant implementation."
+
+- title: Sergei Shabanau
+  name: Sergei Shabanau
+  subtitle: Software developer at B-Yond
+  img: Matthias_Berndt.jpg
+  thumbnail: Matthias_Berndt.jpg
+  alt: Sergei Shabanau
+  topic: "Title: Invertible programs"
+  description: "Parsing functionality is commonly available for many languages. Taking text and converting it to the desired structure is a long solved problem.
+Invertible parsing is (almost) unavailable. Taking text and converting it to structured data or taking structure and presenting it as text in coherent manner using the same program is solved only in theory.
+Until recently. __Invertible__ simply means __can run in both ways__.
+ With 'parserz' parser combinators library in Scala one can do just that:
+   go from program text to abstract syntax tree and print programs back after optimization done on a tree;
+   or express a web server and get a web client for free by simply running the parser logic backwards;
+   or even print the description of the parsing program itself to serve as documentation.
+Welcome version 0.2 of the library with simpler API, new features and, as usual, made with love."
 
 - title: Piotr Golebiewski
   name: Piotr-Golebiewski
