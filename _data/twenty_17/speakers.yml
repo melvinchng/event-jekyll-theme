@@ -328,10 +328,10 @@ so we will be extending the typechecker through dotty's extension mechanisms."
   In this talk, I will present a simple expression DSL and how to leverage GADTs to achieve a robust and performant implementation."
 
 - title: Sergei Shabanau
-  name: Sergei Shabanau
+  name: Sergei-Shabanau
   subtitle: Software developer at B-Yond
-  img: Matthias_Berndt.jpg
-  thumbnail: Matthias_Berndt.jpg
+  img: S_Shabanau.jpg
+  thumbnail: S_Shabanau.jpg
   alt: Sergei Shabanau
   topic: "Title: Invertible programs"
   description: "Parsing functionality is commonly available for many languages. Taking text and converting it to the desired structure is a long solved problem.
