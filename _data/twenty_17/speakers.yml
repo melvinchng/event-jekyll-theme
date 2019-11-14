@@ -6,7 +6,9 @@
   alt: John A. De Goes
   topic: "Scala: End Game"
   description: "Scala 3 is the largest revision of the programming language in recent history, and is rapidly nearing release. With Kotlin on the rise and the containerized world drifting away from the JVM, developers everywhere are wondering what the future holds for Scala.
+
 In this sequel and conclusion to Scala’s Last Infinity War (Scalapeno 2018), John A. De Goes and Wiem Zine Elabidine take to the stage to present a compelling and inspiring vision for the Scala programming language, ecosystem, and community.
+
 Attendees will learn about powerful new simplifications coming to Scala 3; new libraries pushing Scala to the forefront of async, concurrent, and distributed programming; and new hope that the Scala community will move beyond past civil wars, and assemble together, diverse but united by a common passion for using a powerful language to take on the hard problems of modern application development."
 
 - title: Wiem Zine Elabidine
