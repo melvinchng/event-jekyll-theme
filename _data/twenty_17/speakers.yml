@@ -351,3 +351,18 @@ Welcome version 0.2 of the library with simpler API, new features and, as usual,
   alt: Piotr Golebiewski
   topic: coming soon
   description: coming soon
+
+- title: Afsal Thaj
+  name: Afsal-Thaj
+  subtitle: Developer at Simple Machines
+  img: Afsal_Thaj.jpg
+  thumbnail: Afsal_Thaj.jpg
+  alt: Afsal Thaj
+  topic: "ZIO-Config; Re-inventing configuration management in Functional Scala"
+  description: "With this talk, we are unvieling ZIO Config, the library that aims to have a powerful & purely functional, 
+  yet a thin interface to access configuration information inside an application.
+It is built on sound foundations, leveraging the well-known, lawful abstractions of functional programming.
+Everything library does inside, is by making use of program introspection - a feature that goes well with a Free Applicative style encoding.
+However, it stays as minimalistic as possible, with zero dependencies, zero implicits and zero macros, and insanely simple to use. 
+The purpose of the talk is not only to demonstrate what zio-config is, but to demonstrate the fact that sticking on to fundamentals of FP, and finding the right structure
+enables writing purely functional libraries with almost zero complexity."  
