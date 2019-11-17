@@ -366,3 +366,13 @@ Everything library does inside, is by making use of program introspection - a fe
 However, it stays as minimalistic as possible, with zero dependencies, zero implicits and zero macros, and insanely simple to use. 
 The purpose of the talk is not only to demonstrate what zio-config is, but to demonstrate the fact that sticking on to fundamentals of FP, and finding the right structure
 enables writing purely functional libraries with almost zero complexity."  
+
+- title: Jacob Wang
+  name: Jacob-Wang
+  subtitle: Software Developer at Medidata
+  img: Jacob_Wang.jpg
+  thumbnail: Jacob_Wang.jpg
+  alt: Jacob Wang
+  topic: "Adventures in type-safe error handling"
+  description: "Error handling is hard - It's a constant struggle between type-safety, ergonomics and performance. Can we have all three? 
+  In this talk, we will look at various approaches (including a new library) to handling errors in Scala with their advantages and drawbacks."
