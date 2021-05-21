@@ -12,19 +12,26 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-heading">Title<br></div>
-                <div class="intro-lead-in">Date</div>
-                <div class="intro-lead-in">Location</div>
+                <div class="intro-heading">B-Fun<br></div>
+                <div class="intro-lead-in">Beauvechain</div>
                 <a href="#intro" class="page-scroll btn btn-xl">Tell Me More</a>
             </div>
         </div>
     </header>
 
+    {% comment %}
     {% include 2017_data/intro.html %}
+    {% endcomment %}
+
+    {% include 2017_data/speakers.html %}
     {% include 2017_data/speakers.html %}
     {% include 2017_data/about.html %}
     {% include 2017_data/sponsors.html %}
+
+    {% comment %}
     {% include 2016_data/contact.html %}
+    {% endcomment %}
+    
     {% include 2016_data/footer.html %}
     {% include 2017_data/speakers_info.html %}
     {% include 2016_data/js.html %}
