@@ -1,35 +1,35 @@
-- title: Name
+- title: Abonnement 15€
   name: Name-1
-  subtitle: Position
+  subtitle: Full Diables
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
-  description: More Info
+  description: Abonnement pour voir tous les matchs des diables
 
-- title: Name
+- title: Match 5€
   name: Name-2
-  subtitle: Position
+  subtitle: Belgique - Russie
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
-  description: More Info
+  description: Ticket pour voir le match Belgique - Russie
 
-- title: Name
+- title: Match 5€
   name: Name-3
-  subtitle: Position
+  subtitle: Belgique - Danemark
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
-  description: More Info
+  description: Ticket pour voir le match Belgique - Danemark
 
-- title: Name
-  name: Name-3
-  subtitle: Position
+- title: Match 5€
+  name: Name-4
+  subtitle: Belgique - Finlande
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
-  description: More Info
+  description: Ticket pour voir le match Belgique - Finlande

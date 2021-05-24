@@ -1,35 +1,39 @@
-- title: Name
+- title: Abonnement 15€
   name: Name-1
-  subtitle: Position
+  subtitle: Full Diables
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
-  description: More Info
+  description: Abonnement pour voir tous les matchs des diables
+  url: "https://forms.gle/d38iajFxYWHwGBbv6"
 
-- title: Name
+- title: Match 5€
   name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  subtitle: Belgique - Russie
+  img: russia.png
+  thumbnail: russia.png
   alt: Picture of TBD
   topic: Topic
-  description: More Info
+  description: Ticket pour voir le match Belgique - Russie
+  url: "https://forms.gle/2kzgRgy2ozVRquBH6"
 
-- title: Name
+- title: Match 5€
   name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  subtitle: Belgique - Danemark
+  img: denmark.png
+  thumbnail: denmark.png
   alt: Picture of TBD
   topic: Topic
-  description: More Info
+  description: Ticket pour voir le match Belgique - Danemark
+  url: "https://forms.gle/2kzgRgy2ozVRquBH6"
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+- title: Match 5€
+  name: Name-4
+  subtitle: Belgique - Finlande
+  img: finland.png
+  thumbnail: finland.png
   alt: Picture of TBD
   topic: Topic
-  description: More Info
+  description: Ticket pour voir le match Belgique - Finlande
+  url: "https://forms.gle/2kzgRgy2ozVRquBH6"
