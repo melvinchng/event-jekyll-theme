@@ -2,20 +2,16 @@ title: B-fun
 description: > # this means to ignore newlines until "baseurl:"
   Evenementiel
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "b-fun.github.io" # the base hostname & protocol for your site
+url: "https://laberomain.github.io/b-fun" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
 facebook:
   app_id: 
 
-logo: "../css/2016_style/img/icon-large.png"
+logo: "../css/2016_style/img/logo.png"
 
-social: 
-  name: Your Facebook Page
-  link: "https://www.facebook.com/"
-
-google_site_verification: googleXXXXXXXXXXXXXXXX.html
+google_site_verification: 
 
 include: ['_2016_pages', '_2017_pages']
 
@@ -26,9 +22,7 @@ plugins:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: https://www.facebook.com
-  - title: twitter
-    url: https://twitter.com
+    url: https://www.facebook.com/SCBeauvechain
 
 # Build settings
 markdown: kramdown
