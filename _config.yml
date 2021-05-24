@@ -1,15 +1,15 @@
 title: B-fun
 description: > # this means to ignore newlines until "baseurl:"
   Evenementiel
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://laberomain.github.io/b-fun" # the base hostname & protocol for your site
+baseurl: "/b-fun" # the subpath of your site, e.g. /blog
+url: "https://laberomain.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
 facebook:
   app_id: 
 
-logo: "../css/2016_style/img/logo.png"
+logo: "/css/2016_style/img/logo.png"
 
 google_site_verification: 
 

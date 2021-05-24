@@ -17,16 +17,20 @@ footer {
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-md-4">
-                <span class="copyright">© {{ 'now' | date: "%Y" }} <a href="https://github.com/melvinchng/event-jekyll-theme">Event Jekyll Theme</a> by <a href="http://melvinchng.github.io">Melvin Ch'ng</a>,<br>All Rights Reserved.</span>
-            </div>
-            <div class="col-md-4">
-                <ul class="list-inline social-buttons">
-                    {% for network in site.social %}
-                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a></li>
-                    {% endfor %}
-                </ul>
-            </div>
+          <div class="col-md-4"></div>
+          <div class="offset-md-4 col-md-4">
+              <ul class="list-inline social-buttons">
+                  {% for network in site.social %}
+                      <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a></li>
+                  {% endfor %}
+              </ul>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4"></div>
+          <div class="col-md-4">
+              <span class="copyright">© {{ 'now' | date: "%Y" }} <a href="https://github.com/melvinchng/event-jekyll-theme">Event Jekyll Theme</a><br/>updated by Romain Labé.</span>
+          </div>
         </div>
     </div>
 </footer>
