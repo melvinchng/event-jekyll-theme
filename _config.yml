@@ -9,7 +9,7 @@ markdown: kramdown
 facebook:
   app_id: 
 
-logo: "/css/2016_style/img/logo.png"
+logo: "/assets/images/logo.png"
 
 google_site_verification: 
 
