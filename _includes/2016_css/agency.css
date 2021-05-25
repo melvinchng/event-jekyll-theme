@@ -339,7 +339,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/css/2016_style/img/fond.jpg');
+    background-image: url('/css/2016_style/img/fond.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
