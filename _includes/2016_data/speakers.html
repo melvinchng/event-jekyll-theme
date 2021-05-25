@@ -11,12 +11,7 @@
             {% for post in site.data.twenty_16.speakers %}
                 <div class="col-md-4 col-sm-6 speakers-item">
                     <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
-                        <div class="speakers-hover">
-                            <div class="speakers-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="/css/2016_style/img/speaker/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                        <img src="{{site.url}}{{site.baseurl}}/css/2016_style/img/speaker/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="speakers-caption">
                         <h4>{{ post.title }}</h4>
