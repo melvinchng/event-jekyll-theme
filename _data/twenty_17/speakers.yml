@@ -5,7 +5,7 @@
   thumbnail: belgium.png
   alt: Picture of TBD
   topic: Topic
-  description: Abonnement pour voir tous les matchs des diables
+  description: Tous les matchs des Diables (Russie/Danemark/Finlande/Huitième/Demi/Finale ou petite finale)
   url: "https://forms.gle/d38iajFxYWHwGBbv6"
 
 - title: Match 5€
@@ -15,7 +15,7 @@
   thumbnail: russia.png
   alt: Picture of TBD
   topic: Topic
-  description: Ticket pour voir le match Belgique - Russie
+  description: Ticket pour voir le match Belgique - Russie (Samedi 12 juin 2021 à 21h00)
   url: "https://forms.gle/2kzgRgy2ozVRquBH6"
 
 - title: Match 5€
@@ -25,7 +25,7 @@
   thumbnail: denmark.png
   alt: Picture of TBD
   topic: Topic
-  description: Ticket pour voir le match Belgique - Danemark
+  description: Ticket pour voir le match Belgique - Danemark (Jeudi 17 juin 2021 à 18h00)
   url: "https://forms.gle/2kzgRgy2ozVRquBH6"
 
 - title: Match 5€
@@ -35,5 +35,5 @@
   thumbnail: finland.png
   alt: Picture of TBD
   topic: Topic
-  description: Ticket pour voir le match Belgique - Finlande
+  description: Ticket pour voir le match Belgique - Finlande (Lundi 21 juin 2021 à 21h00)
   url: "https://forms.gle/2kzgRgy2ozVRquBH6"
