@@ -8,15 +8,15 @@
             </div>
             <div class="row">
             {% for post in site.data.twenty_17.speakers %}
+            <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
                 <div class="col-md-4 col-sm-6 speakers-item">
-                    <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
                         <img src="/assets/images/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
-                    </a>
                     <div class="speakers-caption">
                         <h4>{{ post.title }}</h4>
                         <p class="text-muted">{{ post.subtitle }}</p>
                     </div>
                 </div>
+            </a>
             {% endfor %}
             </div>
         </div>
