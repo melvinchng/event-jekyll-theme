@@ -8,15 +8,15 @@
   description: Tous les matchs des Diables (Russie/Danemark/Finlande/Huitième/Demi/Finale ou petite finale)
   url: "https://forms.gle/d38iajFxYWHwGBbv6"
 
-- title: Match 5€
-  name: Name-2
-  subtitle: Belgique - Russie
-  img: russia.png
-  thumbnail: russia.png
-  alt: Picture of TBD
-  topic: Topic
-  description: Ticket pour voir le match Belgique - Russie (Samedi 12 juin 2021 à 21h00)
-  url: "https://forms.gle/2kzgRgy2ozVRquBH6"
+# - title: Match 5€
+#   name: Name-2
+#   subtitle: Belgique - Russie
+#   img: russia.png
+#   thumbnail: russia.png
+#   alt: Picture of TBD
+#   topic: Topic
+#   description: Ticket pour voir le match Belgique - Russie (Samedi 12 juin 2021 à 21h00)
+#   url: "https://forms.gle/2kzgRgy2ozVRquBH6"
 
 - title: Match 5€
   name: Name-3
