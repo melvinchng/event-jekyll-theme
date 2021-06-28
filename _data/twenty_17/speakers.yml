@@ -18,14 +18,14 @@
 #   description: Ticket pour voir le match Belgique - Russie (Samedi 12 juin 2021 à 21h00)
 #   url: "https://forms.gle/2kzgRgy2ozVRquBH6"
 
-- title: 8ème de finale 5€
+- title: Quart de finale 5€
   name: Name-3
-  subtitle: 8ème de finale
-  img: coupe.png
-  thumbnail: coupe.png
+  subtitle: Quart de finale
+  img: italy.png
+  thumbnail: italy.png
   alt: Picture of TBD
   topic: Topic
-  description: 8ème de finale (Dimanche 27 juin 2021 à 21h00)
+  description: Quart de finale (Dimanche 27 juin 2021 à 21h00)
   url: "https://forms.gle/2kzgRgy2ozVRquBH6"
 
 # - title: Match 5€
