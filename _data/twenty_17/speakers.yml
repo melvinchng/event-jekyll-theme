@@ -1,12 +1,12 @@
-- title: Abonnement 15€
+- title: Tournoi 5 VS 5
   name: Name-1
-  subtitle: Tous les matchs
-  img: belgium.png
-  thumbnail: belgium.png
+  subtitle: 
+  img: tournoi.png
+  thumbnail: tournoi.png
   alt: Picture of TBD
   topic: Topic
-  description: Tous les matchs des Diables (Russie/Danemark/Finlande/Huitième/Demi/Finale ou petite finale)
-  url: "https://forms.gle/d38iajFxYWHwGBbv6"
+  description: Inscription pour un tournoi de 5vs5
+  url: "https://forms.gle/o3FVEcTjdPnj2osBA"
 
 # - title: Match 5€
 #   name: Name-2
@@ -17,16 +17,6 @@
 #   topic: Topic
 #   description: Ticket pour voir le match Belgique - Russie (Samedi 12 juin 2021 à 21h00)
 #   url: "https://forms.gle/2kzgRgy2ozVRquBH6"
-
-- title: Quart de finale 5€
-  name: Name-3
-  subtitle: Quart de finale
-  img: italy.png
-  thumbnail: italy.png
-  alt: Picture of TBD
-  topic: Topic
-  description: Quart de finale (Vendredi 2 juillet 2021 à 21h00)
-  url: "https://forms.gle/2kzgRgy2ozVRquBH6"
 
 # - title: Match 5€
 #   name: Name-4
