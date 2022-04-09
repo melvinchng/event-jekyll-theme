@@ -1,1 +1,1 @@
-Projet de site web pour l'ASBL b-fun.
+Site web pour l'ASBL b-fun.
