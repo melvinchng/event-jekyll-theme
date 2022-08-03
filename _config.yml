@@ -17,7 +17,7 @@ social:
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-include: ['_2017_pages']
+include: ['_2016_pages', '_2017_pages']
 
 plugins:
   - jekyll-sitemap
