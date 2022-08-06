@@ -346,6 +346,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    background-color: rgba(0, 0, 0, 0.9);
 }
 
 header .intro-text {

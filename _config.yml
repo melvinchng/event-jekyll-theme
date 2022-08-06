@@ -27,6 +27,8 @@ plugins:
 social:
   - title: facebook
     url: https://www.facebook.com/godsowncountryfilms
+  - title: instagram
+    url: https://www.instagram.com/godsowncountryfilms
 
 
 # Build settings
