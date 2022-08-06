@@ -1,35 +1,16 @@
 - inverted: 
-  img: icon-about.jpeg
-  name: Theme, Vision, Mission
-  info: Read more about our Theme, Vision, and Mission
-  link: /about
+  img:  icon-agenda.jpeg
+  name: Since 2014
+  info: Europe's Leading Malayalam Film Distributor
+
 
 - inverted: timeline-inverted
-  img: icon-agenda.jpeg
-  name: Agenda
-  info: Check out the agenda
-  link: /agenda
+  img: icon-about.jpeg
+  name: 56 Movies Distributed all over Europe
+  info: Bringing Lucifer, Thallumala, Marakkar and many more super hits
+
 
 - inverted: 
   img: icon-team.jpeg
   name: Team
-  info: Find out the team members
-  link: /team
-
-- inverted: timeline-inverted
-  img: icon-venue.jpeg
-  name: Venue
-  info: Learn more about our location
-  link: /venue
-
-- inverted: 
-  img: icon-faq.jpeg
-  name: FAQs
-  info: Have a Question? Many answers can be found right here in our FAQs
-  link: /faqs
-
-- inverted: timeline-inverted
-  img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
-  link: /booklet
+  info: Binto Raju [ 3333965963 ] <br> Stevin Babu [ 3381852027 ] <br> Sijo Edacheril [ 3202222873 ] <br> Sathish Thomas [ 77187225 ] 
