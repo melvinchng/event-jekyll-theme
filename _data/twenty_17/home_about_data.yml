@@ -1,4 +1,4 @@
-- inverted: timeline-inverted
+- inverted: 
   img:  icon-agenda.jpeg
   name: Since 2014
   info: Europe's Leading Indian movies  Distributor
@@ -10,7 +10,7 @@
   info: Bringing Kaduva, Janaganamana, CBI-5, KGF Chapter 2, RRR, Arattu, Hridayam, Marakkar Arabikadalinte Simham, Kaval, Kuruppu and many more super hits
 
 
-- inverted: timeline-inverted
+- inverted: 
   img: icon-team.jpeg
   name: Team
   info: Binto Raju  <br> Sijo Edacheril  <br> Stevin Babu  <br> Bino Joseph
