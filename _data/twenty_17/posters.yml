@@ -1,22 +1,14 @@
 
 
-- title: ITALY
-  name: Name-2
-  subtitle: AUGUST 21 - ROME
-  img: ROME.jpg
-  thumbnail: ROME.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
-  link: https://bit.ly/NTCKRome
+
   
 
 - title: MALTA
   name: Name-4
-  subtitle: AUGUST 16 - MALTA
-  img: MALTA.jpeg
-  thumbnail: MALTA.jpeg
+  subtitle: AUGUST 30 - MALTA
+  img: malta.jpeg
+  thumbnail: malta.jpeg
   alt: Picture of TBD
   topic: Topic
   description: More Info
-  link: https://www.ticketly.eu/Event.aspx?eventId=29080
+  link: https://bit.ly/TheerppuMT
