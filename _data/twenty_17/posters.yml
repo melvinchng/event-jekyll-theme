@@ -8,7 +8,6 @@
   description: ROME
   link: https://bit.ly/RorschachIT
   
-
 - title: RORSCHACH
   name: Name-4
   subtitle: OCTOBER 14 FRIDAY 10.15PM
@@ -18,13 +17,5 @@
   topic: Topic
   description: MALTA
   link: https://bit.ly/RorschachMT1
-  
-  - title: RORSCHACH
-  name: Name-4
-  subtitle: OCTOBER 16 SUNDAY 10.00AM MALTA
-  img: rorschach malta 2.jpg
-  thumbnail: rorschach malta 2.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: MALTA
-  link: https://bit.ly/RorschachMT2
+    
+   
