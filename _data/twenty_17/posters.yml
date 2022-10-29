@@ -1,42 +1,13 @@
-- title: MONSTER
+- title: MEGA-SHOW
   name: Name-4
-  subtitle: ROME
-  img: monster rome.jpeg
-  thumbnail: monster rome.jpeg
+  subtitle: GOC PRESENTS
+  img: musical.jpeg
+  thumbnail: musical.jpeg
   alt: Picture of TBD
   topic: Topic
   description: ROME ITALY
-  link: https://bit.ly/3CByEJ0
-  
-- title: MONSTER
-  name: Name-4
-  subtitle: PAGANI ITALY
-  img: MONSTER PAGANI-01.jpg
-  thumbnail: MONSTER PAGANI-01.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: PAGANI ITALY
-  link: https://bit.ly/MonsterPAG
-  
-- title: MONSTER
-  name: Name-4
-  subtitle: OCTOBER 21 FRIDAY 10.15PM
-  img: monster malta 1.jpeg
-  thumbnail: monster malta 1.jpeg
-  alt: Picture of TBD
-  topic: Topic
-  description: MALTA (FRIDAY)
-  link: https://bit.ly/MonsterMT1
-  
-- title: MONSTER
-  name: Name-4
-  subtitle: OCTOBER 23 SUNDAY 9.45AM
-  img: monster malta 3.jpeg
-  thumbnail: monster malta 3.jpeg
-  alt: Picture of TBD
-  topic: Topic
-  description: MALTA (SUNDAY)
-  link: https://bit.ly/MonsterMT2
+  link: https://bit.ly/PanIndians
+ 
   
   
 
