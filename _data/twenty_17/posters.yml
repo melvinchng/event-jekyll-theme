@@ -10,22 +10,22 @@
  
 - title: GOLD
   name: Name-4
-  subtitle: DECEMBER 1 MALTA
+  subtitle: MALTA
   img: goldmaltathursday.jpg
   thumbnail: goldmaltathursday.jpg
   alt: Picture of TBD
   topic: Topic
-  description: MALTA
+  description: DECEMBER 1 MALTA
   link: https://bit.ly/GoldMA1
   
 - title: GOLD
   name: Name-4
-  subtitle: DECEMBER 4 SUNDAY MALTA
-  img: goldrome.png
-  thumbnail: goldrome.png
+  subtitle:  MALTA
+  img: goldmaltasunday.jpg
+  thumbnail: goldmaltasunday.jpg
   alt: Picture of TBD
   topic: Topic
-  description: MALTA
+  description: DECEMBER 4MALTA
   link: https://bit.ly/GoldMA2
   
 
