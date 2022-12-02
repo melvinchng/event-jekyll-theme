@@ -1,35 +1,43 @@
-title: CURIOUS JAEGER
-description: > # this means to ignore newlines until "baseurl:"
-  Your description
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "Your-Link.github.io" # the base hostname & protocol for your site
-# Build settings
-markdown: kramdown
-
-facebook:
-  app_id: 
-
-logo: "../css/2016_style/img/icon-large.png"
-
-social: 
-  name: Your Facebook Page
-  link: "https://www.facebook.com/"
-
-google_site_verification: googleXXXXXXXXXXXXXXXX.html
-
-include: ['_2016_pages', '_2017_pages']
+title: Hamilton
+description: A minimal and beautiful Jekyll theme best for writing and note-taking.
+author: Shangzhi Huang
+avatar: /logo.png
+email: ngzhio@gmail.com
 
 plugins:
-  - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+paginate: 10
+
+# Uncomment the below line and set the tracking ID for enabling Google Analytics
+# 
+# google_analytics: 
+
+# Uncomment the below lines and set the Disqus shortname for enabling Disqus
+# 
+# disqus:
+
+# Jekyll
+# ======
+exclude:
+  - scripts/
+  - README.md
+  - jekyll-theme-hamilton.gemspec
+
+# Jekyll SEO Tag (Optional)
+# =========================
+twitter:
+  username: ngzhio
+  card: summary
+logo: logo.png
 social:
-  - title: facebook
-    url: https://www.facebook.com
-  - title: twitter
-    url: https://twitter.com
-
-# Build settings
-markdown: kramdown
-permalink: pretty
+  name: Shangzhi Huang
+  links:
+    - https://twitter.com/ngzhio
+    - https://www.facebook.com/ngzhio
+    - https://github.com/ngzhio
+google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
+lang: en
