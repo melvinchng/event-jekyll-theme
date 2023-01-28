@@ -1,6 +1,6 @@
 - title: PATHAN - MALTA
   name: Name-4
-  subtitle: JAN-25, JAN-27, JAN-29
+  subtitle: JAN-29
   img: pathan1.jpg
   thumbnail: pathan1.jpg
   alt: Picture of TBD
@@ -10,12 +10,22 @@
   
 - title: 
   name: Name-4
-  subtitle:  JAN-28, JAN-29, JAN-30, JAN-31
+  subtitle:  JAN-29, JAN-30, JAN-31
   img: pathan2.
   thumbnail: pathan2.
   alt: Picture of TBD
   topic: Topic
   description:  EMBASSY CINEMAS
   link: https://www.embassycinemas.com/films/pathaan/
+  
+- title: THANKAM - MALTA
+  name: Name-4
+  subtitle: MALTA
+  img: thankam.jpg
+  thumbnail: thankam.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description:  GALLERIA CINEMAS FGURA 
+  link: https://bit.ly/ThankamMT
   
    
