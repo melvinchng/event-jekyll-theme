@@ -1,12 +1,12 @@
 - title: PS 2
   name: Name-4
   subtitle: ROME
-  img: agent.jpg
-  thumbnail: agent.jpg
+  img: 
+  thumbnail: 
   alt: Picture of TBD
   topic: Topic
   description: FGURA GALLERIA CINEMAS
-  link: https://bit.ly/AgentMT2
+  link: 
   
 - title: AGENT
   name: Name-4
@@ -21,8 +21,8 @@
 - title: PACHUVUM ALBHUTHAVILAKKUM
   name: Name-4
   subtitle: MALTA 
-  img: pachumalta.jpg
-  thumbnail: pachumalta.jpg
+  img: pachumalta1.jpg
+  thumbnail: pachumalta1.jpg
   alt: Picture of TBD
   topic: Topic
   description: FGURA GALLERIA CINEMAS
