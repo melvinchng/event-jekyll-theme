@@ -101,6 +101,11 @@ aside.clients {
 }
 
 aside.clients,
+.bg-white {
+    background-color: #ffffff;
+}
+
+aside.about,
 .bg-light-gray {
     background-color: #f7f7f7;
 }
@@ -370,7 +375,7 @@ header .intro-text .intro-heading {
     line-height: 40px;
 }
 
-@media(min-width:768px) {    
+@media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
