@@ -1,17 +1,17 @@
-title: Your Title
+title: Ontario Aerospace Competition
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Your-Link.github.io" # the base hostname & protocol for your site
+url: "m3di0cre3.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
 facebook:
-  app_id: 
+  app_id:
 
-logo: "../css/2016_style/img/icon-large.png"
+logo: "https://media.discordapp.net/attachments/1133585133732114623/1133603735680069652/ontaclogo.png"
 
-social: 
+social:
   name: Your Facebook Page
   link: "https://www.facebook.com/"
 
