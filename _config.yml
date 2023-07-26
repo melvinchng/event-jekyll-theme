@@ -9,7 +9,7 @@ markdown: kramdown
 facebook:
   app_id:
 
-logo: "../css/2017_style/img/ontaclogo.svg"
+logo: "../css/2017_style/img/ontaclogo.png"
 
 social:
   name: Your Facebook Page
