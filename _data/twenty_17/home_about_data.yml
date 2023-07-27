@@ -6,9 +6,9 @@
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
-  name: Agenda
-  info: Check out the agenda
-  link: /agenda
+  name: Schedule
+  info: Check out the schedule
+  link: /schedule
 
 - inverted:
   img: icon-team.jpeg
