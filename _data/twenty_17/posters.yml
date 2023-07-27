@@ -13,11 +13,20 @@
   name: Name-4
   subtitle:  MALTA
   img: jailer1.jpg
+  thumbnail: jailer1.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: 10th august MALTA
+  link: https://bit.ly/3Y5xyPW
+
+- title: JAILER
+  name: Name-4
+  subtitle:  MALTA
+  img: jailer2.jpg
   thumbnail: jailer2.jpg
   alt: Picture of TBD
   topic: Topic
-  description: 10 th august
-  link: https://bit.ly/3Y5xyPW
-
+  description: 13th august MALTA
+  link: https://bit.ly/46WdxiV
   
    
