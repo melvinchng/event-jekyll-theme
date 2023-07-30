@@ -13,12 +13,12 @@
 - inverted:
   img: icon-team.jpeg
   name: Team
-  info: Find out the team members
+  info: Meet the team
   link: /team
 
 - inverted: timeline-inverted
   img: icon-venue.jpeg
-  name: Venue
+  name: Location
   info: Learn more about our location
   link: /venue
 
