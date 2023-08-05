@@ -20,7 +20,7 @@
   img: icon-venue.jpeg
   name: Location
   info: Learn more about our location
-  link: /venue
+  link: /location
 
 - inverted:
   img: icon-faq.jpeg
