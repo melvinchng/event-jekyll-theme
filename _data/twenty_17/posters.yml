@@ -1,4 +1,3 @@
-
 - title: JAILER
   name: Name-4
   subtitle: ROME
@@ -8,4 +7,13 @@
   topic: Topic
   description:  ROME
   link: https://tinyurl.com/JailerIT1
-   
+
+- title: JAILER
+  name: Name-4
+  subtitle: MALTA
+  img: jailer7.jpg
+  thumbnail: jailer7.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description:  MALTA
+  link: https://www.ticketly.eu/Event.aspx?eventId=33473&src=widget
