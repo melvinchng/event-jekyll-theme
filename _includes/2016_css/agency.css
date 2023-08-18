@@ -264,7 +264,7 @@ ul{
 
 a{
     text-decoration: none;
-    color: #315435;
+    color: #3d8a4c;
 
 
 }
@@ -670,13 +670,13 @@ section{
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: transparent;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #fff;
-    background-color: #{{ site.data.template.color.secondary }};
+    color: #3cb371;
+    background-color: transparent;
 }
 
 @media(min-width:768px) {
