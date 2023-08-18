@@ -9,5 +9,25 @@ title: RC Plane Tutorial
 
     <section id="about" class="black-frame about about-container about-container-single-container">
       <h1>{{ page.title }}</h1>
-      <div class="video"><center><iframe width="1120" height="630" src="https://www.youtube.com/embed/5H4w_94spOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center></div>
+      <div class="row container">
+          <style>
+          .video {
+          position:relative;
+          padding-bottom: 56.25%;
+          height:0;
+          overflow:hidden;
+          align: middle;
+          }
+          .video iframe, .video object, .video embed {
+          position: absolute;
+          margin: auto;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          width: 100%;
+          height: 100%;
+          }
+          </style>
+          <div class="video"><center><iframe width="1120" height="630" src="https://www.youtube.com/embed/5H4w_94spOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center></div>
+          </div>
     </section>
