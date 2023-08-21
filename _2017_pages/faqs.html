@@ -9,10 +9,17 @@ published: true
         document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
     </script>
 
-    <div class="event black-frame">
-      <h1 class="title">{{ page.title }}</h1>
+    <header style="background-image: url('{{ site.baseurl }}/css/2016_style/img/header-bg.jpg'); height: 75vh;">
+            <div class="intro-text">
+                <div class="intro-heading">{{ page.title }}<br></div>
+            </div>
+    </header>
 
-      <p>Below is a list of Frequently Asked Questions (FAQ).<p>
+
+    <div class="event black-frame">
+
+      <h2 style="text-transform: none; font-size: 140%;">Below is a list of Frequently Asked Questions (FAQ).</h2>
+      <p><p>
         <ol>
             {% for faq in site.data.twenty_17.faqs %}
                 <li><b>{{ faq.question }}</b>
@@ -22,6 +29,6 @@ published: true
         </ol>
         <p>
             For further enquiries, kindly submit your question via the <a href="/#contacts">contact us</a>
-            page or send us an email at <a href="mailto:inquiries@ontac.org" target="_blank">inquiries@ontac.org</a> 
+            page or send us an email at <a href="mailto:inquiries@ontac.org" target="_blank">inquiries@ontac.org</a>
         </p>
     </div>
