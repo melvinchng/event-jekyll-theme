@@ -1,14 +1,4 @@
 
-- title: JAILER
-  name: Name-4
-  subtitle: MALTA
-  img: jailer12.jpg
-  thumbnail: jailer12.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description:  MALTA
-  link: https://tinyurl.com/JailerMT10
-
 - title: KING OF KOTHA
   name: Name-4
   subtitle: ROME
@@ -18,3 +8,14 @@
   topic: Topic
   description:  ROME
   link: https://tinyurl.com/KOKRome1
+
+
+- title: R.D.X
+  name: Name-4
+  subtitle: MALTA
+  img: rdx.jpg
+  thumbnail: rdx.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description:  MALTA
+  link: https://tinyurl.com/RDXMalta1
