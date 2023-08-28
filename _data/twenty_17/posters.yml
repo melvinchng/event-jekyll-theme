@@ -1,21 +1,10 @@
 
-- title: KING OF KOTHA
-  name: Name-4
-  subtitle: ROME
-  img: kok.jpg
-  thumbnail: kok.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: booking closed
-  link: 
-
-
 - title: R.D.X
   name: Name-4
-  subtitle: MALTA
-  img: rdx1.jpg
-  thumbnail: rdx1.jpg
+  subtitle: ROME
+  img: rdxrome.jpg
+  thumbnail: rdxrome.jpg
   alt: Picture of TBD
   topic: Topic
-  description:  closed
-  link: 
+  description: MIRTI METRO C 
+  link: https://tinyurl.com/RDXRome1
