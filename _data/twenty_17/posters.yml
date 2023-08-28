@@ -2,9 +2,19 @@
 - title: R.D.X
   name: Name-4
   subtitle: ROME
-  img: rdxrome.jpg
-  thumbnail: rdxrome.jpg
+  img: rdxrome1.jpg
+  thumbnail: rdxrome1.jpg
   alt: Picture of TBD
   topic: Topic
   description: MIRTI METRO C 
   link: https://tinyurl.com/RDXRome1
+
+- title: R.D.X
+  name: Name-4
+  subtitle: MALTA
+  img: rdx2.jpg
+  thumbnail: rdx2.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: MALTA
+  link: https://www.ticketly.eu/m/rdx-mt
