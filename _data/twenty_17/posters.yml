@@ -1,20 +1,12 @@
 
-- title: R.D.X
+- title: LEO
   name: Name-4
   subtitle: ROME
-  img: rdxrome1.jpg
-  thumbnail: rdxrome1.jpg
+  img: leo1.jpg
+  thumbnail: leo1.jpg
   alt: Picture of TBD
   topic: Topic
-  description: Offline tickets available at theater
+  description: ROME BATTISTINI
   link: 
 
-- title: R.D.X
-  name: Name-4
-  subtitle: MALTA
-  img: rdx2.jpg
-  thumbnail: rdx2.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: MALTA
-  link: https://www.ticketly.eu/m/rdx-mt
+
