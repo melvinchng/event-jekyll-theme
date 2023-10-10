@@ -1,30 +1,21 @@
 
-- title: LEO
+- title: LEO 10.30am show
   name: Name-4
-  subtitle: ROME
+  subtitle: ROME - SHOW 1
   img: leo1.jpg
   thumbnail: leo1.jpg
   alt: Picture of TBD
   topic: Topic
-  description: ROME BATTISTINI
+  description: 10.30AM - SALA-1 
   link: https://tinyurl.com/LeoRome1
 
-- title: KANNUR SQUAD
-  name: Name-4
-  subtitle: MALTA
-  img: kannur3.jpg
-  thumbnail: kannur3.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: F GURA MALTA
-  link: https://tinyurl.com/KSMT2
 
-- title: KANNUR SQUAD
+- title: LEO
   name: Name-4
-  subtitle: MALTA
-  img: kannur4.jpg
-  thumbnail: kannur4.jpg
+  subtitle: ROME - SHOW 2
+  img: leo2.jpg
+  thumbnail: leo2.jpg
   alt: Picture of TBD
   topic: Topic
-  description: F GURA MALTA
-  link: https://www.ticketly.eu/Event.aspx?eventId=34562&src=widget
+  description: 11.15AM - SALA-2
+  link: https://tinyurl.com/LeoRome2
