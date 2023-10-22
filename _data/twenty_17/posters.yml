@@ -3,25 +3,25 @@
 
 - title: LEO 10.30AM SHOW -1
   name: Name-4
-  subtitle: ROME - SHOW 1
+  subtitle: OFFLINE TICKET AVAILABLE
   img: leo3.jpg
   thumbnail: leo3.jpg
   alt: Picture of TBD
   topic: Topic
-  description: 10.30AM - SALA-1 
-  link: https://www.ticketly.eu/Event.aspx?eventId=33535
+  description:  ONLINE BOOKING CLOSED 
+  link: 
 
 
 - title: LEO  11.15AM SHOW -2
   name: Name-4
-  subtitle: ROME - SHOW 2
+  subtitle: OFFLINE TICKET AVAILABLE
   img: leo2.jpg
   thumbnail: leo2.jpg
   alt: Picture of TBD
   topic: Topic
-  description: 11.15AM - SALA-2
-  link: https://tinyurl.com/LeoRome2
-
+  description:  ONLINE BOOKING CLOSED
+  link: 
+  
 - title: LEO  
   name: Name-4
   subtitle: PAGANI
@@ -32,12 +32,3 @@
   description: ONLINE BOOKING CLOSED
   link: 
 
-- title: GANAPATH
-  name: Name-4
-  subtitle: MALTA
-  img: ganapath.jpg
-  thumbnail: ganapath.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: MALTA
-  link: https://tinyurl.com/GanapathMT1 
