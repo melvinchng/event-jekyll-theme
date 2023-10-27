@@ -1,0 +1,27 @@
+---
+layout: 2017_default
+permalink: /schedule
+title: Schedule
+published: true
+---
+    <!--background color-->
+    <script type="text/javascript">
+        document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
+    </script>
+
+    <header style="background-image: url('{{ site.baseurl }}/css/2016_style/img/header-bg.jpg'); height: 75vh;">
+            <div class="intro-text">
+                <div class="intro-heading">{{ page.title }}<br></div>
+            </div>
+    </header>
+
+    <div class="event black-frame">
+        <table class="agenda">
+            {% for agenda in site.data.twenty_17.agendas_1 %}
+                <tr>
+                    <td>{{ agenda.time }}</td>
+                    <td>{{ agenda.info }}</td>
+                </tr>
+            {% endfor %}
+        </table>
+    </div>

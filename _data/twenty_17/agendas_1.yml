@@ -1,5 +1,14 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 3:00 PM - 3:20 PM
+  info: "<b>Event opens: participant grace period</b><br>Time to make some new friends!"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 3:20 PM - 3:45 PM
+  info: "<b>Opening ceremony & workshops booths open</b><br>Check out our workshops!<br><br><i>Opening remarks given by David Mota Bustamante and Edward Liu</i>"
+
+- time: 3:45 AM - 4:15 PM
+  info: "<b>Team vehicle demos</b><br>Let's do this thing!<br><br><i>Judged by David Mota Bustamante and Imran Dhalwani</i>"
+
+- time: 4:15 PM - 5:00 PM
+  info: "<b>Air show</b><br>Sit back and enjoy!<br><br><i>Brought to you by our experienced RC pilots</i>"
+
+- time: 5:00 PM - 5:40 PM
+  info: "<b>Closing ceremony & dinner</b><br>Free pizza and pop!<br><br><i>Closing remarks given by David Mota Bustamante and Edward Liu</i>"
