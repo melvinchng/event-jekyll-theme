@@ -1,14 +1,32 @@
 
-
-
-- title: TIGER 3
+- title: MAHARANI
   name: Name-4
-  subtitle: F GURA MALTA
-  img: tiger.jpg
-  thumbnail: tiger.jpg
+  subtitle: BATTISINI ROME
+  img: maharani.jpg
+  thumbnail: maharani.jpg
   alt: Picture of TBD
   topic: Topic
-  description:  MALTA 
-  link: 
+  description:  ROME
+  link: https://tinyurl.com/MaharaniIT
 
 
+
+- title: ANTONY
+  name: Name-4
+  subtitle: MIRTI METRO C
+  img: .jpg
+  thumbnail: .jpg
+  alt: Picture of TBD
+  topic: Topic
+  description:  ROME
+  link: UPDATE SOON
+
+- title: FACE OF THE FACELESS
+  name: Name-4
+  subtitle: MIRTI METRO C
+  img: 
+  thumbnail: .jpg
+  alt: Picture of TBD
+  topic: Topic
+  description:  ROME 
+  link: https://tinyurl.com/FOFIT
