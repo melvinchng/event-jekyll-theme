@@ -8,15 +8,35 @@
   description: DEC 8 FRIDAY 3.30pm
   link: https://tinyurl.com/TFFIT2
 
+ - title: FACE OF THE FACELESS
+  name: Name-4
+  subtitle: MILAN
+  img: facemilan.jpg
+  thumbnail: facemilan.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: MILAN
+  link: https://tinyurl.com/FOFIT2
+ 
 - title: NERU
   name: Name-4
-  subtitle: METRO C MIRTI  ROME
+  subtitle: GENOVA
+  img: neerugenova.jpg
+  thumbnail: neerugenova.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: GENOVA
+  link: 
+  
+- title: NERU
+  name: Name-4
+  subtitle: UPDATING
   img: neru.jpg
   thumbnail: neru.jpg
   alt: Picture of TBD
   topic: Topic
   description: 21 dec 8pm. ROME
-  link: https://tinyurl.com/NeruRome1
+  link: 
     
 
 
