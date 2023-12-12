@@ -1,35 +1,21 @@
 - inverted: 
-  img: icon-about.jpeg
-  name: Theme, Vision, Mission
-  info: Read more about our Theme, Vision, and Mission
-  link: /about
+  img:  icon-agenda.jpeg
+  name: Since 2014
+  info: Europe's Leading Indian movies  Distributor
+
 
 - inverted: timeline-inverted
-  img: icon-agenda.jpeg
-  name: Agenda
-  info: Check out the agenda
-  link: /agenda
+  img: icon-about.jpeg
+  name: 100+ Movies Distributed all over Europe
+  info: Bringing Kaduva, Janaganamana, CBI-5, KGF Chapter 2, RRR, Arattu, Hridayam, Marakkar Arabikadalinte Simham, Kaval, Kuruppu and many more super hits
+
 
 - inverted: 
   img: icon-team.jpeg
-  name: Team
-  info: Find out the team members
-  link: /team
-
-- inverted: timeline-inverted
-  img: icon-venue.jpeg
-  name: Venue
-  info: Learn more about our location
-  link: /venue
-
+  name: Team ITALY
+  info: Binto Raju  <br> Sijo Edacheril  <br> Stevin Babu  <br> Bino Joseph
+  
 - inverted: 
-  img: icon-faq.jpeg
-  name: FAQs
-  info: Have a Question? Many answers can be found right here in our FAQs
-  link: /faqs
-
-- inverted: timeline-inverted
-  img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
-  link: /booklet
+  img: icon-team.jpeg
+  name: Team MALTA
+  info: Jain Thomas <br> Sathish Thomas  
